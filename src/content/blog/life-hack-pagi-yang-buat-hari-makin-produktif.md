@@ -1,13 +1,12 @@
 ---
 author: Agung
-pubDatetime: 2024-01-04T09:30:41.816Z
+pubDatetime: 2025-02-12T09:30:41.816Z
 title: Life Hack Pagi yang Buat Hari Makin Produktif
 slug: life-hack-pagi-yang-buat-hari-makin-produktif
 featured: true
-ogImage: ../../assets/images/AstroPaper-v4.png
 tags:
   - lifehack
-description: "AstroPaper v4: ensuring a smoother and more feature-rich blogging experience."
+description: "Membaca adalah jalan ninjamu untuk semakin produktif dari waktu ke waktu."
 ---
 
 Pagi ini, saya sempat bimbang—setelah selesai Sholat Subuh, niat hati ingin langsung lanjut untuk jalan pagi atau stay di kamar kost ya dengan melakukan aktivitas lain yang tentunya tetap bernilai tambah (selain rebahan, haha)? Akhirnya, saya memilih buka laptop dan membaca sebuah e-book tentang life hack.
