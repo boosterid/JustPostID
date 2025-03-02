@@ -38,6 +38,12 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
+    // for drive access only for URL: https://justpost.id
+    server: {
+      headers: {
+        "Access-Control-Allow-Origin": "https://justpost.id",
+      },
+    },
   },
   scopedStyleStrategy: "where",
   experimental: {
