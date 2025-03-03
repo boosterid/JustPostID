@@ -2,19 +2,23 @@
 author: Agung
 pubDatetime: 2025-03-03T11:11:53Z
 modDatetime: 2025-03-03T12:07:53Z
-title: "Petunjuk Pengguna Mechanical Keyboard Rover 84"
+title: "Petunjuk Pengguna Mechanical Keyboard Rover 84 - PRESS PLAY"
 slug: petunjuk-pengguna-keyboard-rover-84
 featured: false
-ogImage: ../../assets/images/membaca-buku-jendela-dunia.webp
+ogImage: ../../assets/images/Rover-84-PRESS-PLAY.webp
 draft: false
 tags:
   - technoob
 description: Instruksi pengguna mechanichal keyboard Rover 84 dari PRESS PLAY. Nggak perlu cari manual book lagi yang sudah entah kemana!
 ---
 
-Sudah cukup lama, saya menggunakan keyboard mekanik Rover 84 dari PRESS PLAY dalam mode wired. Emang, sudah cukup lama ia nyambung di PC Kantor yang saya gunakan, sehingga praktis pilihan mode wired jadi opsi terbaik.
+Saya menggunakan keyboard mekanik Rover 84 dari PRESS PLAY dalam mode wired sudah cukup lama. Selama ini, keyboard tersebut tersambung dengan PC Kantor yang saya gunakan, sehingga praktis pilihan mode wired jadi opsi terbaik.
 
-Namun, sore ini, ketika saya merasa perlu menggunakannya pairing dengan notebook, rasanya kok ya repot mesti melepas dulu kabel dari PC dan memindahkannya ke konektor USB notebook, untuk kemudian mengembalikan pada posisi semula selepas menggunakannya nanti.
+Namun, sore ini, ketika saya merasa perlu menggunakannya pairing dengan laptop, rasanya kok ya repot mesti melepas dulu kabel dari PC dan memindahkannya ke konektor USB laptop, untuk kemudian mengembalikan pada posisi semula selepas menggunakannya nanti.
+
+![Keyboard Mechanic Rover 84 - PRESS PLAY](@assets/images/Rover-84-PRESS-PLAY.webp)
+
+## Table of Contents
 
 Tapi, kira-kira kombinasi caps apa ya, yang mesti saya tekan untuk switch dari mode wirde ke mode bluetooth? Nah, jadilah kerepotan buka box keyboard yang memang masih saya simpan rapi, untuk mencari manual booknya.
 
@@ -41,23 +45,26 @@ Aha! kenapa saya tidak mencatat petunjuk penggunaan keyboard tersebut menjadi sa
 1. Tekan dan tahan Fn + Space selama 3 detik untuk factory reset.
 2. Knob di pojok kanan atas berfungsi untuk kontrol volume suara.
 3. Kombinasi key Fn:
-   - Fn + A : Windows Mode
-   - Fn + S : Mac Mode
-   - Fn + Del : Insert
-   - Fn + Home : End
-   - Fn + Win : Win Key Lock
-   - Fn + F1 : Media Player
-   - Fn + F2 : Volume -
-   - Fn + F3 : Volume +
-   - Fn + F4 : Mute
-   - Fn + F5 : Stop
-   - Fn + F6 : Previous Track
-   - Fn + F7 : Play/Pause
-   - Fn + F8 Next Track
-   - Fn + F9 : Mailbox
-   - Fn + F10 : Browser
-   - Fn + F11 : Calculator
-   - Fn + F12 : Search
+
+    | Kombinasi Key | Fungsi          | 
+    |-------------- | --------------- |
+    | `Fn + A`      | Windows Mod     |
+    | `Fn + S`      | Mac Mod         |
+    | `Fn + Del`    | Insert          |
+    | `Fn + Home`   | End             |
+    | `Fn + Win`    | Win Key Lock    |
+    | `Fn + F1`     | Media Player    |
+    | `Fn + F2`     | Volume -        |
+    | `Fn + F3`     | Volume +        |
+    | `Fn + F4`     | Mute            |
+    | `Fn + F5`     | Stop            |
+    | `Fn + F6`     | Previous Track  |
+    | `Fn + F7`     | Play/Pause      |
+    | `Fn + F8`     | Next Track      |
+    | `Fn + F9`     | Mailbox         |
+    | `Fn + F10`    | Browser         |
+    | `Fn + F11`    | Calculator      |
+    | `Fn + F12`    | Search          |
 
 ### Instruksi Lainnya
 #### Auto Sleep
