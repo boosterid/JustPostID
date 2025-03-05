@@ -36,15 +36,15 @@ Google Search hanya membutuhkan beberapa aspek teknis dasar agar halaman web dap
 ### Aturan spam
 Aturan ini menjelaskan berbagai teknik atau perilaku yang bisa menyebabkan halaman atau seluruh situs mengalami penurunan peringkat atau bahkan dihapus dari hasil pencarian Google. Situs yang mengutamakan kualitas konten, memberikan pengalaman terbaik bagi pengguna, dan mengikuti pedoman Google cenderung mendapatkan hasil yang lebih baik dalam pencarian.
 
- ### *Best Practice* utama
- Ada banyak cara untuk mengoptimalkan SEO situs Anda, tetapi beberapa strategi utama berikut memiliki dampak paling signifikan terhadap visibilitas dan peringkat halaman Anda di Google Search:
-    - Buat konten yang informatif, tepercaya, dan berfokus pada kebutuhan pengguna.
-    - Gunakan kata kunci yang sering dicari oleh pengguna dan letakkan di lokasi penting seperti judul halaman, heading utama, alt text, serta teks tautan.
-    - Pastikan struktur tautan di situs Anda mudah diakses oleh Google agar mesin pencari dapat menjelajahi halaman-halaman lain melalui tautan yang tersedia.
-    - Promosikan situs Anda dengan berinteraksi dalam komunitas yang sesuai, sehingga audiens yang tertarik dengan topik Anda dapat menemukan situs tersebut.
-    - Jika Anda menggunakan format lain seperti gambar, video, data terstruktur, atau JavaScript, pastikan Anda mengikuti praktik terbaik yang disarankan agar Google dapat memahami elemen-elemen ini dengan baik.
-    - Optimalkan tampilan situs di hasil pencarian dengan mengaktifkan fitur yang sesuai dengan kebutuhan situs Anda.
-    - Jika ada konten yang tidak ingin muncul di pencarian atau Anda ingin sepenuhnya menghindari indeks Google, gunakan metode yang tepat untuk mengelola visibilitas konten Anda di Google Search.
+### *Best Practice* utama
+Ada banyak cara untuk mengoptimalkan SEO situs Anda, tetapi beberapa strategi utama berikut memiliki dampak paling signifikan terhadap visibilitas dan peringkat halaman Anda di Google Search:
+- Buat konten yang informatif, tepercaya, dan berfokus pada kebutuhan pengguna.
+- Gunakan kata kunci yang sering dicari oleh pengguna dan letakkan di lokasi penting seperti judul halaman, heading utama, alt text, serta teks tautan.
+- Pastikan struktur tautan di situs Anda mudah diakses oleh Google agar mesin pencari dapat menjelajahi halaman-halaman lain melalui tautan yang tersedia.
+- Promosikan situs Anda dengan berinteraksi dalam komunitas yang sesuai, sehingga audiens yang tertarik dengan topik Anda dapat menemukan situs tersebut.
+- Jika Anda menggunakan format lain seperti gambar, video, data terstruktur, atau JavaScript, pastikan Anda mengikuti praktik terbaik yang disarankan agar Google dapat memahami elemen-elemen ini dengan baik.
+- Optimalkan tampilan situs di hasil pencarian dengan mengaktifkan fitur yang sesuai dengan kebutuhan situs Anda.
+- Jika ada konten yang tidak ingin muncul di pencarian atau Anda ingin sepenuhnya menghindari indeks Google, gunakan metode yang tepat untuk mengelola visibilitas konten Anda di Google Search.
 
 Tidak ada biaya untuk muncul di hasil pencarian Google. Namun, memenuhi semua persyaratan dan *best practice* pun tidak menjamin bahwa Bot Google akan mengunjungi situs kamu, mengindeks, atau menampilkan halaman webmu. Untuk lebih memahami prosesnya, mari kita pelajari cara kerja Pencarian Google lebih lanjut.
 
