@@ -1,10 +1,11 @@
 ---
 author: Agung
-pubDatetime: 2025-03-08T15:00:52.737Z
-modDatetime: 2025-03-08T15:01:55.737Z
+pubDatetime: 2025-03-08T10:00:52.737Z
+modDatetime: 2025-03-08T10:01:55.737Z
 title: "Menjadi Akar: Kekuatan Tak Terlihat yang Mengokohkan"
 slug: jadilah-akar-yang-tak-terlihat-namun-mengokohkan
-featured: false
+featured: true
+draft: false
 tags:
   - lifehack
 description: Memilih menjadi akar adalah sebuah keputusan yang penuh dengan kebijaksanaan dan ketulusan. Dalam dunia yang semakin berorientasi pada eksposur dan pengakuan.
