@@ -1,7 +1,7 @@
 ---
 author: Agung
 pubDatetime: 2025-03-08T20:58:52.737Z
-modDatetime: 2025-03-08T09:27:28.605Z
+modDatetime: 2025-03-08T20:58:55.737Z
 title: "Menjadi Akar: Kekuatan Tak Terlihat yang Mengokohkan"
 slug: jadilah-akar-yang-tak-terlihat-namun-mengokohkan
 featured: false
