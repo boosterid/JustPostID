@@ -1,8 +1,8 @@
 ---
 author: Agung
-pubDatetime: 2025-03-10T15:00:52.737Z
+pubDatetime: 2025-03-09T15:00:52.737Z
 modDatetime: 2025-03-10T15:01:55.737Z
-title: "8 Tips Untuk Laptop Thinkpad yang Mati Total Tiba-tiba"
+title: "8 Tips untuk Laptop Thinkpad yang Mati Total Tiba-tiba"
 slug: tips-laptop-thinkpad-mati-total-tiba-tiba
 featured: false
 draft: false
