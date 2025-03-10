@@ -8,7 +8,7 @@ featured: false
 draft: false
 tags:
   - lifehack
-description: Rumus rahasia jadi MC (Master of Ceremonies) dadakan, dibongkar di sini. Dijamin mudah!
+description: Kita mungkin tidak hidup dalam eksperimen seperti domba-domba Ibnu Sina, tetapi kita menghadapi ‘serigala’ dalam bentuk tekanan hidup, kecemasan, dan ketakutan.
 ---
 
 Di dunia kedokteran dan filsafat, nama Ibnu Sina (Avicenna) tak pernah pudar. Sebagai seorang ilmuwan, dokter, dan filsuf besar dari abad ke-10, ia tidak hanya dikenal karena karyanya dalam dunia medis, tetapi juga karena eksperimen-eksperimen briliannya.
