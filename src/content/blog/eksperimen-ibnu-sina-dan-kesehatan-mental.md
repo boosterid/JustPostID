@@ -30,12 +30,12 @@ Domba kedua, meskipun diberi lingkungan yang sama, ditempatkan di kandang yang b
 
 Hari demi hari berlalu, dan perbedaan kondisi kedua domba mulai terlihat dengan jelas.
 
-## Hasil yang Mengejutkan!
+## Hasil yang mengejutkan!
 Domba pertama tumbuh dengan baik—sehat, aktif, dan penuh energi. Namun, domba kedua mulai menunjukkan tanda-tanda stres berat. Meskipun serigala tidak pernah benar-benar menyerangnya, rasa takut yang terus-menerus membuat domba ini mengalami berbagai masalah kesehatan: kehilangan nafsu makan, perkembangannya buruk, berat badannya turun drastis, hingga pada akhirnya ia mati lebih cepat.
 
 Padahal, secara fisik, tidak ada luka atau serangan langsung yang membahayakan nyawa domba tersebut. Namun, ketakutan yang terus-menerus telah menggerogoti kesehatannya hingga tak mampu bertahan.
 
-## Kecemasan yang Membunuh secara perlahan
+## Kecemasan yang membunuh secara perlahan
 Eksperimen ini membuka mata kita bahwa emosi memiliki dampak nyata terhadap kesehatan tubuh. Kecemasan, ketakutan, meskipun tidak berwujud sebagai ancaman fisik, dapat menjadi racun yang bekerja perlahan-lahan, merusak sistem tubuh dari dalam. Dalam dunia modern, fenomena ini dikenal dengan istilah psikosomatik—di mana kondisi mental dapat mempengaruhi kesehatan fisik seseorang.
 
 Banyak orang hidup dalam ketakutan, entah itu karena tekanan pekerjaan, lingkungan yang penuh kecemasan, atau trauma masa lalu. Mereka mungkin tidak melihat serigala di depan mata seperti domba kedua, tetapi ‘serigala’ dalam bentuk kekhawatiran, stres, dan ketakutan yang tak kunjung hilang bisa berdampak sama buruknya terhadap tubuh dan pikiran.
@@ -49,7 +49,7 @@ Apa yang bisa kita pelajari dari eksperimen ini?
 
 3. Pikiran memiliki peran besar dalam menjaga keseimbangan tubuh. Menjaga ketenangan mental, mengelola stres, dan berlatih untuk mengatasi rasa takut adalah kunci untuk mempertahankan kesehatan yang optimal.
 
-## Hidup Tanpa ‘Serigala’ yang Tak Terlihat
+## Hidup tanpa ‘Serigala’ yang tak terlihat
 
 Kita mungkin tidak hidup dalam eksperimen seperti domba-domba Ibnu Sina, tetapi kita menghadapi ‘serigala’ dalam bentuk tekanan hidup, kecemasan, dan ketakutan. Pertanyaannya adalah: apakah kita akan membiarkan rasa takut itu mengendalikan hidup kita?
 
