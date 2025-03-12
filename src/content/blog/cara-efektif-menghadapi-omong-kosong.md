@@ -15,7 +15,7 @@ description: Cara paling efektif menghadapi 'omong kosong' menurut saya adalah d
 
 Sebelumnya kita perlu ingatkan dulu, apa itu omong kosong?
 
->'Omong kosong' adalah ungkapan dalam bahasa Indonesia yang berarti perkataan atau pernyataan yang tidak masuk akal, tidak memiliki dasar yang jelas, atau hanya bualan belaka. Istilah ini sering digunakan untuk menyebut sesuatu yang tidak dapat dipercaya, mengada-ada, atau tidak memiliki nilai yang berarti.
+>'Omong kosong' adalah ungkapan untuk menunjukan perkataan atau pernyataan yang tidak masuk akal, tidak memiliki dasar yang jelas, atau hanya bualan belaka. Istilah ini sering digunakan untuk menyebut sesuatu yang tidak dapat dipercaya, mengada-ada, atau tidak memiliki nilai yang berarti.
 >
 >Istilah ini bisa digunakan dalam berbagai situasi, baik dalam percakapan sehari-hari maupun dalam diskusi yang lebih serius.
 
