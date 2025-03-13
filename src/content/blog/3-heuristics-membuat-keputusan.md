@@ -1,7 +1,7 @@
 ---
 author: Agung
-pubDatetime: 2025-03-14T08:04:52
-modDatetime: 2025-03-14T08:04:55
+pubDatetime: 2025-03-13T08:21:52.737Z
+modDatetime: 2025-03-13T08:21:52.737Z
 title: "Ketika 'Iya' atau 'Tidak' Menjadi Sulit, Maka Ini Jawabannya"
 slug: 3-heuristics-membuat-keputusan
 featured: false
