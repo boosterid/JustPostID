@@ -17,13 +17,13 @@ Lebih susah lagi, kalo kita memasukkan unsur-unsur: ..karena sungkan, nggak enak
 
 >When faced with a difficult decision, if you cannot decide – the answer is no. -- Naval Ravikant
 
-Pagi ini saya baca tulisannya Naval Ravikant, yang linknya saya share juga di akhir posting ya. Dalam posting blognya, ia membagikan  membagikan beberapa heuristik atau *framework* yang dapat membantu dalam pengambilan keputusan yang lebih baik. Berikut adalah tiga heuristik yang ia sarankan:
+Pagi ini saya baca tulisannya Naval Ravikant, yang linknya saya share juga di akhir posting ya. Dalam posting blognya, ia membagikan beberapa heuristik atau *framework* yang dapat membantu dalam pengambilan keputusan yang lebih baik. Berikut adalah tiga heuristik yang ia sarankan:
 
 ## Keputusan Sulit
    
 "Ketika dihadapkan pada keputusan yang sulit, dan kita menemukan kondisi bahwa kita tidak dapat memutuskan – maka jawabannya adalah tidak."
    
-Naval menjelaskan bahwa dalam masyarakat modern, kita memiliki banyak pilihan, dan konsekuensi dari keputusan tersebut bisa berdampak jangka panjang. Oleh karena itu, penting untuk hanya mengatakan "ya" ketika kita cukup yakin. Jika Anda harus membuat daftar pro dan kontra yang panjang, mungkin itu tanda untuk menolak.
+Naval menjelaskan bahwa dalam masyarakat modern, kita memiliki banyak pilihan, dan konsekuensi dari keputusan tersebut bisa berdampak jangka panjang. Oleh karena itu, penting untuk hanya mengatakan "ya" ketika kita cukup yakin. Jika kamu harus membuat daftar pro dan kontra yang panjang, mungkin itu tanda untuk menolak.
 
 ## Pilihan yang Sama Baiknya
 
