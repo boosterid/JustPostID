@@ -37,6 +37,6 @@ Naval menyarankan bahwa otak kita cenderung menghindari rasa sakit jangka pendek
 
 Ini berarti membuat keputusan yang, meskipun mungkin sulit saat ini, akan membawa ketenangan batin dan menghindari penyesalan di masa depan.
 
-Nampak simpel ya. Namun tetap aja sih ini mesti kita latih dalam keseharian kita. Dan tentu, seperti yang dipesankan oleh Naval, bahwa framework mungkin saja tidak bisa begitu saja diterapkan di suatu situasi. Oleh sebab itu, tetap diperlukan kebijaksanaan kita dalam mengaplikasikannya.
+Nampak simpel ya. Namun tetap aja sih ini mesti kita latih dalam keseharian. Dan tentu, seperti yang dipesankan oleh Naval, bahwa framework mungkin saja tidak bisa begitu saja diterapkan di suatu situasi. Oleh sebab itu, tetap diperlukan kebijaksanaan kita dalam mengaplikasikannya.
 
 Sumber bacaan: [Naval Ravikant’s 3 Heuristics for Decision-Making](https://tanmaymunigala.com/decision-making/)
