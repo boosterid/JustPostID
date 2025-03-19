@@ -52,3 +52,5 @@ Ya Mujib, kabulkanlah doa ini dengan rahmat dan kasih sayang-Mu.
 Allahumma shalli ‘ala Muhammad wa ‘ala aali Muhammad.
 
 Aamiin, ya Rabbal ‘aalamiin.
+
+> **Update:** 18 Maret 2025, Pengumuman Hasil SNBP, dan Ananda Muchammad Naufal Aziz dinyatakan lulus seleksi SNBP 2025, di Institut Teknologi Sepuluh Nopember (ITS), Surabaya, pada Jurusan Rekayasa Perangkat Lunak (S1). Rasa bahagia dan haru bagi kami sekeluarga. Ini terjadi semata-mata karena Kemurahan dan Ketetapan Allah SWT, tentu yang terbaik baik hambanya. Adapun doa di atas, hanya sebatas 'proposal' yang keputusan bisa 'diterima', 'ditangguhkan', atau 'diganti dengan yang lebih baik'. Semuanya dalah hak prerogatif Sang Pemilik Hidup.
