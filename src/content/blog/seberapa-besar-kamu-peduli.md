@@ -61,5 +61,3 @@ Jadilah autentik: Kepedulian sejati tidak bisa dipalsukan. Jika ingin membangun 
 Pengetahuan adalah kekuatan, tetapi tanpa kepedulian, kekuatan tersebut bisa kehilangan dampaknya. Seperti kutipan bijak ini, orang baru akan peduli dengan apa yang kita ketahui ketika mereka merasa bahwa kita benar-benar peduli terhadap mereka. Jadi, dalam setiap interaksi, baik itu dalam bisnis, pekerjaan, atau hubungan personal, selalu utamakan empati dan perhatian yang tulus.
 
 Dengan memahami dan menerapkan filosofi ini, kita tidak hanya menjadi individu yang lebih dihargai, tetapi juga membangun hubungan yang lebih bermakna dan berdampak. Jadi, sebelum berbicara tentang apa yang kita tahu, pastikan dulu bahwa kita menunjukkan kepedulian yang nyata.
-
-ini adalah kalimat testing :)
