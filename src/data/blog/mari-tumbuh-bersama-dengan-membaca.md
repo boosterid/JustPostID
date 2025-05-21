@@ -5,7 +5,6 @@ modDatetime: 2025-03-01T12:07:53Z
 title: "Mari Tumbuh Dewasa Bersama dengan Membaca"
 slug: mari-tumbuh-bersama-dengan-membaca
 featured: true
-ogImage: ../../assets/images/membaca-buku-jendela-dunia.webp
 draft: false
 tags:
   - literasi
@@ -13,8 +12,6 @@ description: Membaca itu seperti nutrisi bagi pikiran dan jiwa kita. Semakin ser
 ---
 
 Membaca itu seperti nutrisi bagi pikiran dan jiwa kita. Semakin sering dilakukan, semakin tajam cara berpikir, dan semakin luas wawasan. Maka, mari tumbuhlah dewasa dengan terbiasa membaca.
-
-![Membaca adalah nutrisi jiwa](@assets/images/membaca-buku-jendela-dunia.webp)
 
 Membaca bukan sebatas kemampuan merangkai huruf menjadi kata, kata saling terhubung menjadi kalimat, kemudian paragraf. Lebih dari itu, membaca adalah mencari makna, yang menjadi wahana bagaimana mengolah diri, hati, dan pikiran.
 

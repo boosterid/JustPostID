@@ -5,7 +5,6 @@ modDatetime: 2025-03-03T12:07:53Z
 title: "Petunjuk Pengguna Mechanical Keyboard Rover 84 - PRESS PLAY"
 slug: petunjuk-pengguna-keyboard-rover-84
 featured: false
-ogImage: ../../assets/images/Rover-84-PRESS-PLAY.webp
 draft: false
 tags:
   - technoob
@@ -15,8 +14,6 @@ description: Instruksi pengguna mechanichal keyboard Rover 84 dari PRESS PLAY. N
 Saya menggunakan keyboard mekanik Rover 84 dari PRESS PLAY dalam mode wired sudah cukup lama. Selama ini, keyboard tersebut tersambung dengan PC Kantor yang saya gunakan, sehingga praktis pilihan mode wired jadi opsi terbaik.
 
 Namun, sore ini, ketika saya merasa perlu menggunakannya pairing dengan laptop, rasanya kok ya repot mesti melepas dulu kabel dari PC dan memindahkannya ke konektor USB laptop, untuk kemudian mengembalikan pada posisi semula selepas menggunakannya nanti.
-
-![Keyboard Mechanic Rover 84 - PRESS PLAY](@assets/images/Rover-84-PRESS-PLAY.webp)
 
 ## Table of Contents
 

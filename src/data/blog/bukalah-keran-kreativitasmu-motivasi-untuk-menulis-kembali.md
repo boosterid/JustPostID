@@ -5,7 +5,6 @@ modDatetime: 2025-03-01T09:27:28.605Z
 title: "Bukalah Keran Kreativitasmu: Motivasi untuk Menulis (Kembali)"
 slug: bukalah-keran-kreativitasmu-motivasi-untuk-menulis-kembali
 featured: true
-ogImage: ../../assets/images/menulis-mengasah-kreativitas.webp
 draft: false
 tags:
   - literasi
@@ -13,8 +12,6 @@ description: Menulis adalah salah satu wahana mengasah kreativitas. Maka, tulisl
 ---
 
 Kapan terakhir kali kamu menuliskan ide, opini, pengalaman, ringkasan ‘ilmu baru’, dalam sebuah catatan, blog, diary atau apapun? Pernahkah kamu ingin mulai menulis, tetapi selalu tertahan oleh rasa ragu? Entah karena merasa tidak punya ide yang cukup menarik, takut tulisanmu tidak bagus, atau sekadar bingung harus mulai dari mana.
-
-![Menulis Mengasah Kreativitas](@assets/images/menulis-mengasah-kreativitas.webp)
 
 Saya pernah ada di posisi itu. Sampai akhirnya, sebuah kutipan dari Louis L’Amour mendorong kuat untuk kembali menulis:
 
