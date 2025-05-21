@@ -3,15 +3,34 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hai Kamu,
+AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
-Halaman ini akan kubuka dengan kutipan berikut:
->## Jika membaca membuat otakmu terasah, maka menulis adalah jalan bagi jiwa untuk menemukan bentuknya sendiri.
->
->Biasakanlah dirimu dengan keduanya--membaca untuk mengenali semesta, menulis untuk mengenali dirimu sendiri.
+This theme is aimed to be accessible out of the box. Light and dark mode are supported by
+default and additional color schemes can also be configured.
 
-Halaman-halaman pada JustPost.ID ini, saya dedikasikan untuk memudahkan dalam mengingat kembali. Termasuk mengingatkan tentang betapa butuhnya saya membaca, dan belajar. Karena nyatanya begitu mudah kita lupa, serta betapa dangkalnya ilmu kita.
+This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
-Mohon maklum jika catatan-catatan saya masih jauh dari sempurna dalam peletakan koma (,) dan titik(.), apalagi tertib dalam penempatan S P O K. Karena, kalimat-kalimat yang saya susun ya.. mengalir begitu saja. Jika bagi Kamu, ini 'asal menulis', mungkin ada benarnya.
+<div>
+  <img src="/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+</div>
 
-Terlepas itu semua, satu yang Kamu perlu tau, aku melakukannya dengan <span style="color: red;">❤</span> #eeaaa
+## Tech Stack
+
+This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+
+## Features
+
+Here are certain features of this site.
+
+- fully responsive and accessible
+- SEO-friendly
+- light & dark mode
+- fuzzy search
+- super fast performance
+- draft posts
+- pagination
+- sitemap & rss feed
+- highly customizable
+
+If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
+Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
