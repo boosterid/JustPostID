@@ -1,6 +1,6 @@
 ---
 author: Agung
-pubDatetime: 2025-11-18T08:21:52.737Z
+pubDatetime: 2025-11-17T08:21:52.737Z
 modDatetime: 2025-11-18T08:21:52.737Z
 title: "Trust Actions over Emotions"
 slug: trust-acions-over-emotions
