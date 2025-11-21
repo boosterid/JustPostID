@@ -12,6 +12,7 @@ ogImage: "https://cdn.prod.website-files.com/6040ba28127600ad9182e1be/65ce781736
 description: Sebelum berbicara tentang apa yang kita tahu, pastikan dulu bahwa kita menunjukkan kepedulian yang nyata.
 ---
 
+![something](@/assets/images/ogImage_Bakken.webp)
 Di tengah derasnya arus informasi, didukung semakin majunya teknologi yang mempertukarkannya, pengetahuan memang menjadi aset yang sangat berharga. Namun, ada satu hal yang lebih kuat daripada sekadar mengetahui banyak hal—yaitu kepedulian.
 
 Hal tersebut sejalan dengan kutipan populer, yang kerap dikaitkan dengan Theodore Roosevelt
