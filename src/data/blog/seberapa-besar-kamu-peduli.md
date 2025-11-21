@@ -8,6 +8,7 @@ featured: true
 draft: false
 tags:
   - lifehack
+ogImage: "https://cdn.prod.website-files.com/6040ba28127600ad9182e1be/65ce781736f0088eb925e412_Tanaki.webp"
 description: Sebelum berbicara tentang apa yang kita tahu, pastikan dulu bahwa kita menunjukkan kepedulian yang nyata.
 ---
 
