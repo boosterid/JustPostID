@@ -11,7 +11,7 @@ tags:
 description: Pelajari bagaimana satu kata sederhana—“tidak”—dapat mengungkap karakter asli seseorang. Insight psikologis singkat namun membuka mata.
 ---
 
-Pagi ini, Aeropress dan selembar paper filter berbentuk bulat, pasangannya, menjadi teman seduh biji kopi single origin 'Argopuro Lychee Sorbet', yang kubeli dari Hayati Roastery. Jujurly, akhir-akhir ini, saya cukup menggemari taste notes buah-buahan yang muncul dari hasil seduhan filter biji sangrai serupa. Kalau kemarin strawbery, maka hari ini lycyhee. Enak! Cobain deh.
+Pagi ini, Aeropress dan selembar paper filter berbentuk bulat, pasangannya, menjadi teman seduh biji kopi single origin 'Argopuro Lychee Sorbet', yang kubeli dari Hayati Roastery. Jujurly, akhir-akhir ini, saya cukup menggemari taste notes buah-buahan yang muncul dari hasil seduhan filter biji sangrai serupa. Kalau kemarin strawbery, maka hari ini lychee. Enak! Cobain deh.
 
 Memang tidak semua penikmat kopi 'klop' dengan aneka note rasa yang muncul sebab perkembangan teknologi olah paska panen tersebut. Satu-dua orang ketika mencicipnya, tak jarang berkata 'kok rasa kopi seperti ini, ya'. Sementara yang lain, yang lebih dulu punya pengalaman dengan note rasa tak lazim pada kopi, akan berkata 'tidak'.
 
