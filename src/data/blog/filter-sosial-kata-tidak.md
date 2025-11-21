@@ -21,6 +21,6 @@ Saat ita menjadi 'yes man', dunia tampak ramah. Semua orang terlihat baik, hanga
 
 Ada yang tetap tersenyum, memahami bahwa kita punya kehidupan dan prioritas sendiri. Mereka menghargai keputusan kita meski tak sesuai harapan mereka. Tapi ada juga yang berubah—mendadak dingin, tersinggung, atau seolah kemudian memaksa. Dan di situlah kebenaran pelan-pelan terungkap dengan sendirinya ke permukaan.
 
-Batasan diri ibarat pintu, kapan kita buka dan kapan kita tutup, sepenuhnya otoritas tiap pribadi. Ketika kita harus menutupnya, maka “Tutuplah pintumu baik-baik, lihat siapa yang masih mengetuk dengan hormat.” Kata “tidak” bukan hanya penolakan, melainkan cermin. Ia memantulkan siapa yang benar-benar peduli, dan siapa yang hanya peduli pada apa yang bisa kita berikan.
+Batasan diri ibarat pintu, kapan kita buka dan kapan kita tutup, sepenuhnya otoritas tiap pribadi. Ketika kita harus menutupnya, maka “Tutuplah pintumu baik-baik, lihat siapa yang masih mengetuk dengan hormat.” Kata “tidak” bukan hanya penolakan, melainkan cermin. Ia merefleksikan siapa yang benar-benar peduli, dan siapa yang hanya peduli pada apa yang bisa kita berikan.
 
 Pada akhirnya, kata sederahana 'tidak', ia bekerja seperti filter alami dalam relasi sosial kita. Dan dari sanalah, kita belajar… bahwa kebenaran paling jujur kadang muncul dari satu keberanian sederhana: menjaga batas diri.
