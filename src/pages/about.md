@@ -5,13 +5,10 @@ title: "About"
 
 Hai Kamu,
 
-Halaman ini akan kubuka dengan kutipan berikut:
 >## Jika membaca membuat otakmu terasah, maka menulis adalah jalan bagi jiwa untuk menemukan bentuknya sendiri.
 >
 >Biasakanlah dirimu dengan keduanya--membaca untuk mengenali semesta, menulis untuk mengenali dirimu sendiri.
 
-Halaman-halaman pada JustPost.ID ini, saya dedikasikan untuk memudahkan dalam mengingat kembali. Termasuk mengingatkan tentang betapa butuhnya saya membaca, dan belajar. Karena nyatanya begitu mudah kita lupa, serta betapa dangkalnya ilmu kita.
+JustPost.ID ini adalah ruang kecilku untuk mencatat ulang ide, pengalaman, dan pelajaran hidup — agar aku tak lupa, dan agar kamu bisa ikut menelusuri pemikiran yang pernah singgah. Kita semua butuh terus belajar, karena terkadang pengetahuan terasa dangkal dan ingatan begitu mudah pudar.
 
-Mohon maklum jika catatan-catatan saya masih jauh dari sempurna dalam peletakan koma (,) dan titik(.), apalagi tertib dalam penempatan S P O K. Karena, kalimat-kalimat yang saya susun ya.. mengalir begitu saja. Jika bagi Kamu, ini 'asal menulis', mungkin ada benarnya.
-
-Terlepas itu semua, satu yang Kamu perlu tau, aku melakukannya dengan <span style="color: red;">❤</span> #eeaaa
+Tulisan-tulisan ini mungkin belum rapi: komanya belum selalu di tempat, struktur kalimatnya mengalir seperti sungai berbatu— tetapi, semuanya lahir dari hati. Aku menulis dengan ketulusan, harapan, dan cinta. <span style="color: red;">❤</span>
