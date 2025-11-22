@@ -9,6 +9,7 @@ Hai Kamu,
 >
 >Biasakanlah dirimu dengan keduanya--membaca untuk mengenali semesta, menulis untuk mengenali dirimu sendiri.
 
-JustPost.ID ini adalah ruang kecilku untuk mencatat ulang ide, pengalaman, dan pelajaran hidup — agar aku tak lupa, dan agar kamu bisa ikut menelusuri pemikiran yang pernah singgah. Kita semua butuh terus belajar, karena terkadang pengetahuan terasa dangkal dan ingatan begitu mudah pudar.
+JustPost.ID adalah ruangku untuk berhenti sebentar, menata ingatan, dan merangkai ulang apa yang kupelajari dari hidup.
+Aku tidak selalu menulis dengan rapi; kadang kalimatnya lari ke mana-mana. Tapi setiap tulisan lahir dari niat yang sama: ingin mengingat, ingin berbagi, dan ingin tumbuh bersama.
 
-Tulisan-tulisan ini mungkin belum rapi: komanya belum selalu di tempat, struktur kalimatnya mengalir seperti sungai berbatu— tetapi, semuanya lahir dari hati. Aku coba menulis dengan ketulusan, harapan, dan cinta <span style="color: red;">❤</span>
+Semoga apa yang kutulis di sini juga menemukan tempat di hatimu, seperti bagaimana ia menemukan tempatnya di pikiranku. <span style="color: red;">❤</span>
