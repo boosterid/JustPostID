@@ -19,8 +19,8 @@ Sarana olahraga ini dibangun pada tahun 1988, dan sempat di fungsikan sebagai sa
 
 Sekelumit perkenalan profil Lapangan Jatim Seger ini menjadi pelengkap cerita saya di akhir pekan ini. FYI, saya memiliki agenda rutin setiap bulannya, yaitu 'tilik mbarep'. Tilik mbarep ini merupakan frasa dalam Bahasa Jawa. Yang mungkin, saya saja yang iseng menggandengkan keduanya, dan menggunakannya. Tilik sama artinya dengan tengok, sementara mbarep bermakna anak pertama.
 
-Pagi ini, Saya mengajak si Mbarep untuk sekedar jogging ringan dan menikmati suasana mendung. Mendung yang sebetulnya menjadi musuh berat bagi sebagian orang untuk beranjak bergerak. 
+Pagi ini, Saya mengajak si Mbarep untuk sekedar jogging ringan dan menikmati suasana mendung. Mendung yang sebetulnya menjadi musuh berat bagi sebagian orang untuk beranjak bergerak. Mbarep yang tujuh belas tahun lalu, masih saya bonceng onthel di setiap akhir pekan. Kini sudah bisa mboncengin dan ngiringi lari Bapaknya. Desember besok, usianya beranjak 19 tahun.
 
-Tempat yang sama, berbeda waktu, aktivitas, dan orang-orang yang berbeda di sekitarnya. Tentu, ini bukan dejavu. Momen yang mungkin biasa bagi sebagian orang, tapi tidak untuk saya. Pertanda apa kiranya? Entahlah. Tapi seperti biasa, saya memilih menafsirkan semuanya sebagai isyarat baik—sebuah tanda bahwa ada nikmat hidup lain yang sedang berjalan menuju kami.
+Jatim Seger, tempat yang sama, berbeda waktu, aktivitas, dan orang-orang yang berbeda di sekitarnya. Tentu, ini bukan dejavu. Momen yang mungkin biasa bagi sebagian orang, tapi tidak untuk saya. Pertanda apa kiranya? Entahlah. Tapi seperti biasa, saya memilih menafsirkan semuanya sebagai isyarat baik—sebuah tanda bahwa ada nikmat hidup lain yang sedang berjalan menuju kami.
 
 Siapa sangka, ternyata mbarep kami menyusul Bapaknya ke mari. Ah, Alhamdulillah, saya sangat menikmatinya. Skenario hidup esok memang selalu misterius. Maka, yang bisa kita lakukan hanyalah meyakini bahwa apa pun yang hadir nanti, pasti sudah menjadi bagian dari kebaikan yang ditetapkan untuk kita, meski sering kali berada di luar jangkauan nalar manusia.
