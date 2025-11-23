@@ -23,4 +23,4 @@ Pagi ini, Saya mengajak si Mbarep untuk sekedar jogging ringan dan menikmati sua
 
 Jatim Seger, tempat yang sama, berbeda waktu, aktivitas, dan orang-orang yang berbeda di sekitarnya. Tentu, ini bukan dejavu. Momen yang mungkin biasa bagi sebagian orang, tapi tidak untuk saya. Pertanda apa kiranya? Entahlah. Tapi seperti biasa, saya memilih menafsirkan semuanya sebagai isyarat baik—sebuah tanda bahwa ada nikmat hidup lain yang sedang berjalan menuju kami.
 
-Siapa sangka, ternyata mbarep kami menyusul Bapaknya ke mari. Ah, Alhamdulillah, saya sangat menikmatinya. Skenario hidup esok memang selalu misterius. Maka, yang bisa kita lakukan hanyalah meyakini bahwa apa pun yang hadir nanti, pasti sudah menjadi bagian dari kebaikan yang ditetapkan untuk kita, meski sering kali berada di luar jangkauan nalar manusia.
+Siapa sangka, ternyata mbarep kami menyusul Bapaknya kemari. Ah, Alhamdulillah, saya sangat menikmatinya. Skenario hidup esok memang selalu misterius. Maka, yang bisa kita lakukan hanyalah meyakini bahwa apa pun yang hadir nanti, pasti sudah menjadi bagian dari kebaikan yang ditetapkan untuk kita, meski sering kali berada di luar jangkauan nalar manusia.
