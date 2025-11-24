@@ -1,26 +1,38 @@
 ---
 author: Agung
-pubDatetime: 2025-11-23T08:21:52.737Z
-modDatetime: 2025-11-23T08:21:55.605Z
-title: "Tilik Mbarep"
-slug: tilik-mbarep
+pubDatetime: 2025-11-24T08:21:52.737Z
+modDatetime: 2025-11-24T08:21:55.605Z
+title: "Projective Judgment"
+slug: projective-judgment
 featured: true
 draft: false
 tags:
-  - keluarga
+  - lifehack
 ogImage: ../../assets/images/ogImage_Bakken.webp
-description: Siapa sangka, setelah dua tahun berlalu, saya kembali menjejakkan kaki ke tempat ini untuk kedua kalinya, Lapangan Jatim Seger. Kali ini, didampingi si Mbarep.
+description: Siapa sangka, ternyata komentarnya menunjukkan isi hatinya yang sebenarnya.
 ---
 
 ![something](@/assets/images/ogImage_Bakken.webp)
-Siapa sangka, setelah dua tahun berlalu, saya kembali menjejakkan kaki ke tempat ini untuk kedua kalinya, Lapangan Atletik KONI Jawa Timur. Kini, ia telah berganti nama menjadi Lapangan Jatim Seger, akronim dari 'senang gerak'. Lapangan Jatim Seger merupakan venue olahraga legendaris di Surabaya, yang lokasi hanya selemparan batu dari Kantor KONI Jatim.
+Seporsi mie godog penggugah selera di penghujung hujan. Ia disertai dengan kopi hitam tanpa gula, yang saya tambahkan dalam daftar pesanan di warung Cak Pur beberapa saat lalu. Entah serasi atau tidak, namun keduanya cukup kuat menjadi pemantik untuk saya menuliskan, mengelaborasi obrolan dengan seorang teman sore tadi.
 
-Sarana olahraga ini dibangun pada tahun 1988, dan sempat di fungsikan sebagai salah satu venue PON XV, untuk cabang olahraga panahan. Saat ini, selain dijadikan tempat latihan atlit panahan serta track and field atletik berstandar internasional, lapangan ini juga dilengkapi fasilitas latihan angkat beban dan beladiri.
+Sebetulnya bukan obrolan berat, sekedar tema keseharian, yang semua orang mudah menemuinya. Namun kali ini, saya menangkap makna di beberapa bagian, yang sayang sekali rasanya untuk berlalu begitu saja, tanpa menjadi pelajaran untuk diingat. Tentang projective judgment.
 
-Sekelumit perkenalan profil Lapangan Jatim Seger ini menjadi pelengkap cerita saya di akhir pekan ini. FYI, saya memiliki agenda rutin setiap bulannya, yaitu 'tilik mbarep'. Tilik mbarep ini merupakan frasa dalam Bahasa Jawa. Yang mungkin, saya saja yang iseng menggandengkan keduanya, dan menggunakannya. Tilik sama artinya dengan tengok, sementara mbarep bermakna anak pertama.
+Kita tentu pernah menemui pribadi yang memiliki kebiasaan 'murah' (spontan) dalam memuji. Di kutub yang berlawanan, ada pribadi yang dengan mudahnya berkomentar nyinyir. Dalam konteks pola berulang, psikologi mengaitkannya dengan konsep yang disebut projective judgment.
 
-Pagi ini, Saya mengajak si Mbarep untuk sekedar jogging ringan dan menikmati suasana mendung. Mendung yang sebetulnya menjadi musuh berat bagi sebagian orang untuk beranjak bergerak. Mbarep yang tujuh belas tahun lalu, masih saya bonceng onthel di setiap akhir pekan. Kini sudah bisa mboncengin dan ngiringi lari Bapaknya. Desember besok, usianya beranjak 19 tahun.
+Projective judgment adalah proses ketika seseorang memproyeksikan isi pikiran, perasaan, konflik batin, kebutuhan yang tidak disadari, atau bagian kepribadian lain ke dalam stimulus yang ambigu. Karena stimulusnya tidak jelas, orang akan mengisi kekosongan itu dengan apa yang sedang ada dalam alam pikirannya.
 
-Jatim Seger, tempat yang sama, berbeda waktu, aktivitas, dan orang-orang yang berbeda di sekitarnya. Tentu, ini bukan dejavu. Momen yang mungkin biasa bagi sebagian orang, tapi tidak untuk saya. Pertanda apa kiranya? Entahlah. Tapi seperti biasa, saya memilih menafsirkan semuanya sebagai isyarat baik—sebuah tanda bahwa ada nikmat hidup lain yang sedang berjalan menuju kami.
+Dalam konteks relasi interpersonal, projective judgment merujuk pada fenomena ketika seseorang menafsirkan perilaku, ucapan, atau ekspresi orang lain bukan berdasarkan fakta yang sebenarnya, melainkan justru merefleksikan isi batin dirinya sendiri—pengalaman masa lalu, luka emosional, ketakutan, kebutuhan, atau harapan yang belum selesai.
 
-Siapa sangka, ternyata mbarep kami menyusul Bapaknya kemari. Ah, Alhamdulillah, saya sangat menikmatinya. Skenario hidup esok memang selalu misterius. Maka, yang bisa kita lakukan hanyalah meyakini bahwa apa pun yang hadir nanti, pasti sudah menjadi bagian dari kebaikan yang ditetapkan untuk kita, meski sering kali berada di luar jangkauan nalar manusia.
+Manifestasi dari projective judgment dapat mudah kita temui dalam pola perilkau berikut, diantaranya.
+
+  • Orang yang spontan memberi pujian
+  Mereka yang ringan mengapresiasi sering kali menyimpan ruang aman di dalam dirinya. Ia mudah melihat sisi terang dalam diri orang lain karena cahaya itu memang tumbuh di dalam batinnya sendiri.
+
+  • Orang yang mudah nyinyir atau merendahkan orang lain
+  Sikap yang sinis biasanya berakar dari rasa tidak aman yang belum selesai. Ia merendahkan orang lain sebagai cara instan untuk mengangkat dirinya—sebuah ilusi kecil untuk menutupi kekosongan besar di dalam.
+
+  • Orang yang cepat menuduh
+  Mereka yang murah menaruh curiga sering membawa jejak pengalaman pengkhianatan. Ketakutan yang ia arahkan ke orang lain sebenarnya adalah ketakutan yang ia bawa terhadap dirinya sendiri: takut dikhianati lagi, takut percaya lagi.
+
+  • Para penggosip yang menjadikan gosip sebagai _social currency_
+  Bagi sebagian orang, gosip bukan soal informasi, tetapi soal kedekatan. Mereka menggunakan cerita orang lain sebagai jembatan cepat untuk merasa diterima. Bukan karena haus informasi, melainkan karena rindu koneksi. Gosip adalah jalan ~~ninja~~ pintas untuk merasa dekat.
