@@ -27,22 +27,22 @@ Manifestasi dari projective judgment dapat mudah kita temui dalam pola perilkau 
 
   • Orang yang spontan memberi pujian
     
-    Mereka yang ringan mengapresiasi sering kali menyimpan ruang aman di dalam dirinya. Ia mudah melihat sisi terang dalam diri orang lain karena cahaya itu memang tumbuh di dalam batinnya sendiri.
+  Mereka yang ringan mengapresiasi sering kali menyimpan ruang aman di dalam dirinya. Ia mudah melihat sisi terang dalam diri orang lain karena cahaya itu memang tumbuh di dalam batinnya sendiri.
 
   • Orang yang mudah nyinyir atau merendahkan orang lain
     
-    Sikap yang sinis biasanya berakar dari rasa tidak aman yang belum selesai. Ia merendahkan orang lain sebagai cara instan untuk mengangkat dirinya—sebuah ilusi kecil untuk menutupi kekosongan besar di dalam.
+  Sikap yang sinis biasanya berakar dari rasa tidak aman yang belum selesai. Ia merendahkan orang lain sebagai cara instan untuk mengangkat dirinya—sebuah ilusi kecil untuk menutupi kekosongan besar di dalam.
 
   • Orang yang cepat menuduh
     
-    Mereka yang murah menaruh curiga sering membawa jejak pengalaman pengkhianatan. Ketakutan yang ia arahkan ke orang lain sebenarnya adalah ketakutan yang ia bawa terhadap dirinya sendiri: takut dikhianati lagi, takut percaya lagi.
+  Mereka yang murah menaruh curiga sering membawa jejak pengalaman pengkhianatan. Ketakutan yang ia arahkan ke orang lain sebenarnya adalah ketakutan yang ia bawa terhadap dirinya sendiri: takut dikhianati lagi, takut percaya lagi.
 
   • Para penggosip yang menjadikan gosip sebagai _social currency_
     
-    Bagi sebagian orang, gosip bukan soal informasi, tetapi soal kedekatan. Mereka menggunakan cerita orang lain sebagai jembatan cepat untuk merasa diterima. Bukan karena haus informasi, melainkan karena rindu koneksi. Gosip adalah jalan ~~ninja~~ pintas untuk merasa dekat.
+  Bagi sebagian orang, gosip bukan soal informasi, tetapi soal kedekatan. Mereka menggunakan cerita orang lain sebagai jembatan cepat untuk merasa diterima. Bukan karena haus informasi, melainkan karena rindu koneksi. Gosip adalah jalan ~~ninja~~ pintas untuk merasa dekat.
 
 Tentu beberapa contoh di atas merupakan sekelumit realitas sosial yang kita temui dalam keseharian. Jadi benar adanya sebuah ungkapan yang menyebutkan bahwa tutur kata yang terucap meerupakan cerminan (kualitas) pribadi. 
 
 > Dalam psikolinguistik, bahasa dianggap sebagai refleksi dari skema mental, bias kognitif yang terucap, atau proses emosi yang bocor.
 
-Maka, ketika kita mendapati komentar _miring_ tentang diri kita, jangan berkecil hati. Abaikan saja, sangat mungkin komentar tersebut terlahir bukan dari kebenaran tentang diri kita, tapi justru dari luka, pengalaman, atau ketidakberdayaan diri si komentator. Karena sejatinya hanya ujar yang baik, konstruktif, mengajak bertumbuh, yang layak kita cerna dan mengendap di pikiran serta hati kita. Sepakat ya!
+Maka, ketika kita mendapati komentar _miring_, jangan berkecil hati. Abaikan saja, sangat mungkin komentar tersebut terlahir bukan dari kebenaran tentang diri kita, tapi justru dari luka, pengalaman, atau ketidakberdayaan diri si komentator. Karena sejatinya hanya ujar yang baik, konstruktif, mengajak bertumbuh, yang layak kita cerna dan mengendap di pikiran serta hati. Sepakat ya!
