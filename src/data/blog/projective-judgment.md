@@ -2,7 +2,7 @@
 author: Agung
 pubDatetime: 2025-11-24T15:00:52.737Z
 modDatetime: 2025-11-24T15:00:52.737Z
-title: "Tutur, Bagian Emosi yang Bocor: Projective Judgment"
+title: "Tutur Kata, Bagian Emosi yang Bocor: Projective Judgment"
 slug: projective-judgment
 featured: true
 draft: false
@@ -45,4 +45,6 @@ Tentu beberapa contoh di atas merupakan sekelumit realitas sosial yang kita temu
 
 > Dalam psikolinguistik, bahasa dianggap sebagai refleksi dari skema mental, bias kognitif yang terucap, atau proses emosi yang bocor.
 
-Maka, ketika kita mendapatkan komentar _miring_, jangan berkecil hati. Abaikan saja, sangat mungkin komentar tersebut terlahir bukan dari kebenaran tentang diri kita, tapi justru dari luka, pengalaman, atau ketidakberdayaan diri si komentator. Karena sejatinya hanya ujar yang baik, konstruktif, mengajak bertumbuh, yang layak kita cerna dan mengendap di pikiran serta hati. Sepakat ya!
+Maka, ketika kita mendapatkan komentar _miring_, jangan berkecil hati. Abaikan saja, sangat mungkin komentar tersebut terlahir bukan dari kebenaran tentang diri kita, tapi justru dari luka, pengalaman, atau ketidakberdayaan diri si komentator.
+
+Karena sejatinya hanya ujar yang baik, konstruktif, mengajak bertumbuh, yang layak kita cerna dan mengendap di pikiran serta hati. Sepakat ya!
