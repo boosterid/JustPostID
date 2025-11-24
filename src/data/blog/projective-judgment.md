@@ -23,7 +23,7 @@ Projective judgment adalah proses ketika seseorang memproyeksikan isi pikiran, p
 
 Dalam konteks relasi interpersonal, projective judgment merujuk pada fenomena ketika seseorang menafsirkan perilaku, ucapan, atau ekspresi orang lain bukan berdasarkan fakta yang sebenarnya, melainkan justru merefleksikan isi batin dirinya sendiri—pengalaman masa lalu, luka emosional, ketakutan, kebutuhan, atau harapan yang belum selesai.
 
-Manifestasi dari projective judgment dapat mudah kita temui dalam pola perilkau berikut, diantaranya.
+Contoh manifestasi dari projective judgment dapat mudah kita temui dalam pola perilkau berikut, diantaranya.
 
   • Orang yang spontan memberi pujian
     
@@ -31,7 +31,7 @@ Manifestasi dari projective judgment dapat mudah kita temui dalam pola perilkau 
 
   • Orang yang mudah nyinyir atau merendahkan orang lain
     
-  Sikap yang sinis biasanya berakar dari rasa tidak aman yang belum selesai. Ia merendahkan orang lain sebagai cara instan untuk mengangkat dirinya—sebuah ilusi kecil untuk menutupi kekosongan besar di dalam.
+  Sikap yang sinis biasanya berakar dari rasa tidak aman yang belum selesai (insecurity). Ia merendahkan orang lain sebagai cara instan untuk mengangkat dirinya—sebuah ilusi kecil untuk menutupi kekosongan besar di dalam jiwanya.
 
   • Orang yang cepat menuduh
     
