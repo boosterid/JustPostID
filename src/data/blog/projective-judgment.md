@@ -2,14 +2,14 @@
 author: Agung
 pubDatetime: 2025-11-24T08:21:52.737Z
 modDatetime: 2025-11-24T08:21:55.605Z
-title: "Projective Judgment"
+title: "Tutur, Bagian Emosi yang Bocor: Projective Judgment"
 slug: projective-judgment
 featured: true
 draft: false
 tags:
   - lifehack
 ogImage: ../../assets/images/ogImage_GoodNotes.webp
-description: Siapa sangka, ternyata komentarnya menunjukkan isi hatinya yang sebenarnya.
+description: Bahasa dianggap sebagai refleksi dari skema mental, bias kognitif yang terucap, atau proses emosi yang bocor, projective Judgment.
 ---
 
 ![something](@/assets/images/ogImage_GoodNotes.webp)
