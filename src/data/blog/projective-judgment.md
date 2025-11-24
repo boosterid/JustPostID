@@ -1,7 +1,7 @@
 ---
 author: Agung
-pubDatetime: 2025-11-24T08:21:52.737Z
-modDatetime: 2025-11-24T08:21:55.605Z
+pubDatetime: 2025-11-24T21:00:00.000Z
+modDatetime: 2025-11-24T21:00:00.000Z
 title: "Tutur, Bagian Emosi yang Bocor: Projective Judgment"
 slug: projective-judgment
 featured: true
