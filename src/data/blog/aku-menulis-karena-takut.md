@@ -15,7 +15,7 @@ description: Aku menulis bukan untuk menghapus ketakutan, tapi untuk memahaminya
 ![something](@/assets/images/ogImage_Styyka.webp)
 Saat membaca tulisan ini, itu berarti kamu sedang berhadapan dengan _ketakutanku_. Aku yakinkan bahwa perjumpaanmu dengan _kumpulan ketakukan_ yang terhimpun dalam blog ini bukanlah sebuah kebetulan. Selalu ada alasan mengapa kamu tiba tepat di sini, di saat yang sama ketika aku mencoba merawat pikiranku melalui kata-kata.
 
-Ya, kata-kata yang membentuk kalimat, yang kemudian terhimpun sebagaimana yang kamu baca saat ini mungkin saja pernah kuhapus sebelumnya. Dan, kutulis kembali. Itu semua karena _ketakutanku_. Aku menulis karena aku takut...
+Ya, kata-kata terangkai menjadi menjadi kalimat, yang kemudian terhimpun sebagaimana yang kamu baca saat ini mungkin saja pernah kuhapus sebelumnya. Dan, kutulis kembali. Itu semua karena _ketakutanku_. Aku menulis karena aku takut...
 
   >...takut jika gejolak yang muncul di benakku hilang sebelum sempat kupahami.
 
