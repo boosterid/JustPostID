@@ -18,10 +18,15 @@ Saat membaca tulisan ini, itu berarti kamu sedang berhadapan dengan _ketakutanku
 Ya, kata-kata yang membentuk kalimat, yang kemudian terhimpun sebagaimana yang kamu baca saat ini mungkin saja pernah kuhapus sebelumnya. Dan, kutulis kembali. Itu semua karena _ketakutanku_. Aku menulis karena aku takut...
 
   ...takut jika gejolak yang muncul di benakku hilang sebelum sempat kupahami.
+
   ...takut hidup lewat begitu saja tanpa jejak pemikiran yang pernah membuatku berhenti, merenung, kemudian berubah.
+
   ...takut gagasan-gagasan kecil ini berlalu seperti angin, padahal bisa saja suatu hari menjadi pegangan untukku, pun untukmu.
+
   ...takut diamku disalahpahami. Maka, kutulis sesuatu agar pikiranku menemukan bentuk, bukan sekedar bayangan semu.
+
   ...takut kehilangan kemampuanku merasakah. Karena, menulis membantuku tetap peka.
+  
   ...takut tidak belajar apa-apa dari hidup. Padahal ia melaju semakin cepat.
 
 Pada akhirnya, aku menulis bukan untuk menghapus ketakutan, tapi untuk memahaminya. Untuk memberi ruang pada hal-hal yang seringkali tak sempat kudengar ketika hidup bergerak terlalu cepat. Dan di antara jeda kata-kata ini, aku menemukan bahwa ketakutan pun bisa menjadi guru yang bijaksana — selama aku bersedia duduk bersamanya.
