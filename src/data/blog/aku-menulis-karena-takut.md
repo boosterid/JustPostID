@@ -7,7 +7,7 @@ slug: aku-menulis-karena-takut
 featured: true
 draft: false
 tags:
-  - lifehack
+  - literasi
 ogImage: ../../assets/images/ogImage_Styyka.webp
 description: Aku menulis bukan untuk menghapus ketakutan, tapi untuk memahaminya. Untuk memberi ruang pada hal-hal yang seringkali tak sempat kudengar ketika hidup bergerak terlalu cepat.
 ---
