@@ -8,11 +8,11 @@ featured: true
 draft: false
 tags:
   - lifehack
-ogImage: ../../assets/images/ogImage_GoodNotes.webp
+ogImage: ../../assets/images/ogImage_Stykka.webp
 description: Aku menulis bukan untuk menghapus ketakutan, tapi untuk memahaminya. Untuk memberi ruang pada hal-hal yang seringkali tak sempat kudengar ketika hidup bergerak terlalu cepat.
 ---
 
-![something](@/assets/images/ogImage_GoodNotes.webp)
+![something](@/assets/images/ogImage_Stykka.webp)
 Saat membaca tulisan ini, itu berarti kamu sedang berhadapan dengan _ketakutanku_. Aku yakinkan bahwa perjumpaanmu dengan _kumpulan ketakukan_ yang terhimpun dalam blog ini bukanlah sebuah kebetulan. Selalu ada alasan mengapa kamu tiba tepat di sini, di saat yang sama ketika aku mencoba merawat pikiranku melalui kata-kata.
 
 Ya, kata-kata yang membentuk kalimat, yang kemudian terhimpun sebagaimana yang kamu baca saat ini mungkin saja pernah kuhapus sebelumnya. Dan, kutulis kembali. Itu semua karena _ketakutanku_. Aku menulis karena aku takut...
@@ -25,7 +25,7 @@ Ya, kata-kata yang membentuk kalimat, yang kemudian terhimpun sebagaimana yang k
 
   >...takut diamku disalahpahami. Maka, kutulis sesuatu agar pikiranku menemukan bentuk, bukan sekedar bayangan semu.
 
-  >...takut kehilangan kemampuanku merasakah. Karena, menulis membantuku tetap peka.
+  >...takut kehilangan kemampuanku merasakan. Karena, menulis membantuku tetap peka.
 
   >...takut tidak belajar apa-apa dari hidup. Padahal ia melaju semakin cepat.
 
