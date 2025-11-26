@@ -4,7 +4,7 @@ pubDatetime: 2025-11-26T15:00:52.737Z
 modDatetime: 2025-11-26T15:00:52.737Z
 title: "3 Monster yang Harus Kamu Kalahkan Sebelum Tulisan Pertamamu Lahir."
 slug: 3-monster-penghambat-proses-kreatif-menulis
-featured: true
+featured: false
 draft: false
 tags:
   - literasi
