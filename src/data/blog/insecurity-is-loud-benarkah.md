@@ -42,14 +42,14 @@ Motivasi tersebutlah yang mendukung perilaku di mana seseorang menutupi rasa kur
 
 Lalu, bagaimana dengan mereka yang menunjukan pola perilaku berikut, contohnya:
 
-- Menahan ide yang sebenarnya pintar
+- Menahan ide, meski sebenarnya ia pintar
 - Menolak kesempatan hanya karena merasa belum siap
 - Membatasi diri sendiri agar tidak terlihat gagal
 - Membatalkan minat karena takut mencoba
 
-Bukan karena tidak punya kemampuan, namun, mereka berperilaku demikian karena takut dikritik atau salah. Mereka tidak memamerkan apapun, namun hati mereka dipenuhi keraguan. Dan, ini adalah bagian dari insecurity. mereka tidak terdengar keras. Justru terasa sunyi—tetapi berat.
+Bukan karena tidak punya kemampuan, namun, mereka berperilaku demikian karena takut dikritik atau salah. Mereka tidak memamerkan apapun, namun hati mereka dipenuhi keraguan. Dan, ini adalah bagian dari _insecurity_. mereka tidak terdengar keras. Justru terasa sunyi—tetapi berat.
 
-Dari sini kita belajar satu hal: Insecurity bisa berisik, bisa juga diam. Kedua polar tersebut menunjukkan kondisi manusia yang sama-sama sedang berjuang mengenal dirinya, manusiawi.
+Dari sini kita belajar satu hal: _Insecurity_ bisa berisik, bisa juga diam. Kedua polar tersebut menunjukkan kondisi manusia yang sama-sama sedang berjuang mengenal dirinya, manusiawi.
 
 ## Bukankah ada *"Percaya Diri"*, lalu apa bedanya?
 
