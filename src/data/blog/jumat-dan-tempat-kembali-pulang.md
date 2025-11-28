@@ -26,4 +26,4 @@ Pada akhirnya, mungkin hidup memang selalu bergerak dengan pola yang sama: pergi
 
 Jumat memang berada di urutan ke enam dari _sanak bersaudara hari_, meski bukan yang pertama, ia selalu istimewa. Ia adalah hari di mana mula penciptaan manusia, Nabi Adam AS. Dengan segala kemuliaanya, Jumat seolah menjadi pengingat bahwa setiap perjalanan butuh jeda. Bahwa manusia tak diciptakan untuk terus menerus berlari tanpa sempat menengok dari mana ia berangkat. Ada kelegaan yang tidak bisa dibeli ketika kaki akhirnya berhenti, dan kita menyadari:
 
->“Oh, ternyata ini tujuan yang selama ini kucari, pulang.”
+>Oh, ternyata ini tujuan yang selama ini kucari, pulang.
