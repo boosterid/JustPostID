@@ -16,13 +16,13 @@ description: Kaizen, perubahan besar hampir selalu lahir dari hal-hal kecil, yan
 
 Kaizen, sebuah konsep nilai tradisi yang banyak melatarbelakangi cerita sukses transformasi besar di dunia. Contoh nyatanya dapat kita lihat pada transformasi Toyota yang berhasil mendobrak dominasi kemapanan raksasa otomotif sekelas General Motor, misalnya. Dalam budaya Jepang, Kaizen merupakan filosofi perbaikan bertahap, konsisten, dan tanpa henti. Kaizen bukan sekadar metode, melainkan cara berpikir.
 
-Dalam literatur modern, Kaizen ini senada dengan konsep yang dipopulerkan oleh James Clear, yang kita kenal dan sekaligus menjadi judul buku beliau, "Atomic Habits". Buku ini adalah salah satu karya terbaik yang saya baca berulang. Karena di dalamnya, kita membaca bagaimana prinsip kecil menghadirkan transformasi besar, memenangkan kompetisi dunia, dan bahkan mencetak sejarah.
+Dalam literatur modern, Kaizen ini senada dengan konsep yang dipopulerkan oleh James Clear, yang kita kenal dan sekaligus menjadi judul buku Beliau, "Atomic Habits". Buku ini adalah salah satu karya terbaik yang saya baca berulang. Karena di dalamnya, kita membaca bagaimana prinsip kecil menghadirkan transformasi besar, memenangkan kompetisi dunia, dan bahkan mencetak sejarah.
 
 Seberapa kecil? Kadang hanya dengan 1% perbaikan, yang dilakukan konsisten.
 
 ## Tim Balap Sepeda Inggris: Ketika 1% Menghasilkan Sejarah
 
-Kali ini saya tidak menulis ulang kisah Toyota. Namun kisah sukses aplikasi Kaizen (atomic habits) dari dunia olahraga, perjuangan Tim Nasional Balap Bepeda dari Britania Raya. Di mana secara khusus, kisah ini juga diangkat sebagai bab pembuka buku Atomic Habits.
+Kali ini saya tidak menulis ulang kisah Toyota. Namun kisah sukses aplikasi Kaizen (atomic habits) dari dunia olahraga, perjuangan tim nasional balap sepeda dari Britania Raya. Di mana secara khusus, kisah ini juga diangkat sebagai bab pembuka buku Atomic Habits.
 
 Selama hampir satu abad, tim balap sepeda Inggris dikenal sebagai tim yang miskin prestasi. Dalam kurun 110 tahun tidak ada satupun pembalap Inggris yang berhasil menjuarai ajang balap sekelas Tour de France. Mereka tidak diperhitungkan di Olimpiade, bahkan ada produsen sepeda yang menolak mensponsori mereka karena takut akan turut mendapatkan reputasi buruk.
 
