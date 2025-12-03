@@ -1,15 +1,15 @@
 ---
 author: Agung
-pubDatetime: 2025-12-02T08:00:52.737+07:00
-modDatetime: 2025-12-02T08:00:52.737+07:00
+pubDatetime: 2025-12-02T20:00:52.737+07:00
+modDatetime: 2025-12-02T20:00:52.737+07:00
 title: "Berlatih Lari Tanpa Lelah: Rahasia MAF untuk Pekerja Kantoran"
 slug: metode-maf-pelari-kantoran
-featured: true
+featured: false
 draft: false
 tags:
   - running
 ogImage: ../../assets/images/ogImage_LiamOrange.webp
-description: etap fit meski sibuk kerja. Pelajari bagaimana metode MAF membantu pelari kantoran berlatih lebih efisien tanpa latihan panjang atau intens. Cocok untuk yang harus selesai lari sebelum jam 6 pagi.
+description: Tetap fit meski sibuk kerja. Pelajari bagaimana metode MAF membantu pelari kantoran berlatih lebih efisien tanpa latihan panjang atau intens. Cocok untuk yang harus selesai lari sebelum jam 6 pagi.
 ---
 
 ![something](@/assets/images/ogImage_LiamOrange.webp)
