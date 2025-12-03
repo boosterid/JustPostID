@@ -98,6 +98,6 @@ Coba sesuatu.
 Ubah pola kecil.  
 Bangunkan rasa penasaranmu lagi.
 
-Karena hidup tidak selalu menunggu revolusi besar. Kadang, hidup mulai terasa hidup kembali hanya karena kamu berani membuat **satu perubahan kecil hari ini.** Seperti yang sedang aku coba lakukan melaui tulisan ini :)
+Karena hidup tidak selalu menunggu revolusi besar. Kadang, hidup mulai terasa hidup kembali hanya karena kamu berani membuat **satu perubahan kecil hari ini.** Seperti yang sedang aku coba lakukan melalui tulisan ini :)
 
 
