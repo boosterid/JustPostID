@@ -28,7 +28,7 @@ Bukan karena tidak ada yang harus dilakukan. Bukan karena hidup kekurangan aktiv
 
 Pernah kubaca bahwa perasan **bosan** ternyata bukan hal yang buruk. Justru, di baliknya terdapat sinyal-sinyal bahwa kita siap untuk _tinggal landas_ meng-_upgrade_ diri. Baik, biar lebih mudah kuingat, dan semoga juga bermanfaat bagimu, melalui post kali ini kucoba untuk berbaginya denganmu. Berikut catatanku.
 
-## Bukan Kamu yang Stagnan — Versimu yang Baru Sedang Tumbuh
+## Bukan kamu yang stagnan, tapi versimu yang baru sedang tumbuh
 
 Menariknya, bosan jarang sekali datang sebagai kelemahan. Seringnya dia muncul sebagai tanda *silent upgrade*: kamu tumbuh, tapi rutinitasmu masih versi lama.
 
@@ -40,7 +40,7 @@ Ketika tidak ada yang baru, otak diam-diam mulai mematikan energi antusias. Dan 
 
 ---
 
-## Hidup yang Terlalu Bisa Ditebak Kehilangan Rasa
+## Hidup yang terlalu bisa ditebak
 
 Ada kenyamanan dalam rutinitas. Tapi ada jiwa yang tumbuh dalam perubahan kecil. Ketika hari-hari berjalan dengan pola yang sama:
 
@@ -55,7 +55,7 @@ Karena manusia tidak hanya butuh **kepastian**, kita juga butuh **kejutan kecil*
 
 ---
 
-## Mungkin Kita Tidak Butuh Hidup Baru — Hanya Cara Baru Menjalani Hidup
+## Mungkin kita tidak butuh hidup baru, tapi cara baru menjalani hidup
 
 Tidak semua rasa bosan harus direspon dengan perubahan besar. Kadang, yang kita perlukan hanyalah:
 
@@ -74,7 +74,7 @@ Perubahan kecil bisa menciptakan sensasi segar yang menghidupkan lagi rasa ingin
 
 ---
 
-## Bosan Bisa Jadi Awal — Bukan Akhir
+## Bosan bisa jadi awal, bukan akhir
 
 Kadang kita mengira bosan berarti gagal mempertahankan semangat. Padahal justru sebaliknya: **itu sinyal bahwa diri kita menolak hidup seadanya.**
 
