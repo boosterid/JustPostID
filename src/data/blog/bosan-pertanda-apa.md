@@ -26,7 +26,7 @@ Bukan karena tidak ada yang harus dilakukan. Bukan karena hidup kekurangan aktiv
 
 ---
 
-Pernah kubaca bahwa perasan **bosan** ternyata bukan hal yang buruk. Justru, di baliknya terdapat sinyal-sinyal bahwa kita siap untuk _tinggal landas_ meng-_upgrade_ diri. Biar lebih bermanfaat, baiklah, kucoba untuk berbaginya denganmu. Berikut catatanku.
+Pernah kubaca bahwa perasan **bosan** ternyata bukan hal yang buruk. Justru, di baliknya terdapat sinyal-sinyal bahwa kita siap untuk _tinggal landas_ meng-_upgrade_ diri. Baik, biar lebih mudah kuingat, dan semoga juga bermanfaat bagimu, melalui post kali ini kucoba untuk berbaginya denganmu. Berikut catatanku.
 
 ## Bukan Kamu yang Stagnan — Versimu yang Baru Sedang Tumbuh
 
