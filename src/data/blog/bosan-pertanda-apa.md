@@ -1,7 +1,7 @@
 ---
 author: Agung
-pubDatetime: 2025-12-03T08:00:52.737+07:00
-modDatetime: 2025-12-03T08:00:52.737+07:00
+pubDatetime: 2025-12-03T20:00:52.737+07:00
+modDatetime: 2025-12-03T20:00:52.737+07:00
 title: "Bosan..., Pertanda Apa Ini?"
 slug: bosan-pertanda-apa
 featured: true
