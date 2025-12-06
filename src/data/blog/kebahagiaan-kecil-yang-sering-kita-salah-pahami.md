@@ -35,7 +35,7 @@ Hanya… bingung.
 
 Seolah-olah aku sedang melihat parade kebahagiaan orang lain, tapi tidak sepenuhnya paham kenapa harus dipertontonkan.
 
-Sampai suatu hari, aku menonton ulang sebuah story dari seorang teman.
+Sampai suatu hari, aku menonton ulang salah satu _story_ dari seorang teman.
 Isinya cuma video anak batitanya yang mulai belajar dan bisa berjalan untuk pertama kalinya.
 Suara temanku agak bergetar saat mengambil video itu.
 Ada haru, tawa kecil, sekaligus rasa lega, dan ada kebanggaan yang tumpah tanpa ditahan.
@@ -45,11 +45,11 @@ Aku malah melihat seseorang yang ingin membekukan momen kecil itu.
 Seolah dia bilang ke dunia:
 “Aku senang dan bangga. Tolong ada yang ikut senang juga bersama kami.”
 
-Sejak itu, aku mulai melihat _story_ orang dengan sudut pandang yang berbeda.
+Sejak itu, aku mulai melihat _story_ orang lain dengan sudut pandang yang berbeda.
 
 Semakin ke sini, aku makin paham bahwa setiap orang punya versi kebanggaannya sendiri.
 Buat sebagian orang, pencapaian berarti mungkin saja berupa menang lomba bergengsi, dapat penghargaan  dari walikota atau promosi jabatan, dsb.
-Tapi buat sebagian lainnya, kebanggaan itu sederhana saja:
+Tapi buat sebagian lainnya, kebanggaan itu sederhana saja.
 
 Anaknya berani maju ke depan kelas.
 Orangtuanya sehat.
@@ -58,15 +58,13 @@ Atau sekadar hari di mana mereka bisa tersenyum sedikit lebih lebar dari biasany
 
 Dan lucunya, aku pun ternyata begitu.
 Ada momen-momen kecil yang ingin kubagikan, meski aku tahu itu tidak penting buat orang lain.
-Seperti foto yang mengabadikan momen sederaha selepas lari pagi.
+Seperti foto yang mengabadikan momen sederhana selepas lari pagi.
 Atau ketika aku berhasil bikin kopi yang rasanya pas dari biji kopi yang baru saja kubeli.
 
 Bagi dunia, itu mungkin biasa.
 Tapi buatku, itu momen yang punya tempat.
 
-Pada akhirnya, aku menyadari satu hal yang pelan-pelan mengubah cara pandangku:
-
-Kita semua punya hal kecil yang ingin dirayakan.
+Pada akhirnya, aku menyadari satu hal yang pelan-pelan mengubah cara pandangku. Kita semua punya hal kecil yang ingin dirayakan.
 Dan sering kali, kita merayakannya dengan cara yang paling sederhana:
 dengan membaginya kepada orang lain.
 
@@ -82,5 +80,5 @@ Aku memilih untuk berhenti sejenak, tersenyum, dan berkata dalam hati:
 
 Kadang itu sudah cukup untuk membuat dunia terasa sedikit lebih hangat.
 Sedikit lebih manusiawi.
-Dan sedikit lebih terhubung.
+Dan lebih terhubung.
 
