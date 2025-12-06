@@ -71,7 +71,7 @@ dengan membaginya kepada orang lain.
 Dulu aku melihat _story_ sebagai etalase.
 Sekarang aku melihatnya sebagai jendela kecil untuk mengintip hal-hal baik yang sedang dirayakan orang.
 
-Dan dari situ aku belajar pelajaran yang sangat manusiawi:
+Dan dari situ aku belajar:
 >Mengapresiasi kebahagiaan orang lain itu juga bentuk kedewasaan. Bukan karena kita harus ikut senang. Tapi karena kita mengerti bahwa setiap orang sedang berjuang dengan caranya sendiri — dan momen yang mereka bagikan mungkin adalah salah satu hadiah kecil di tengah perjuangan itu.
 
 Jadi hari ini, kalau melihat ada yang upload kebahagiaan sederhana, aku tidak bertanya seperti dulu.
