@@ -50,7 +50,7 @@ Ini bukan egois. Ini fondasi kesehatan mental. Oleh sebab itu kita mungkin perna
 
 Jujur saja, _default_ pertimbangan sebagian besar kita dalam mengambil keputusan bukan karena dunia berkata "ini penting," tetapi secara naluri **otak bertanya:**
 
-> “Apa dampaknya untuk aku?”
+>Apa dampaknya untuk aku?
 
 Bahkan empati pun dimulai dari _**self reference**_, "Aku membayangkan kalau aku jadi dia, bukan aku jadi dia secara literal".
 
@@ -93,6 +93,9 @@ Atau dalam bahasa yang lebih humanis:
 >Kau harus hadir penuh dalam dirimu sebelum bisa hadir penuh bagi orang lain.
 
 Di situlah komunikasi menjadi empatik, dan hidup menjadi seimbang.
+
+
+
 
 Referensi:
 1. "Berani Ngomong Langsung", oleh Oh Su Hyang
