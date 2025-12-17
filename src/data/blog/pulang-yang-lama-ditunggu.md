@@ -27,7 +27,7 @@ Tujuh adalah jumlah yang sudah cukup banyak untuk dianggap berarti.
 Bukan cocoklogi,
 coba saja kamu cari tau dimana saja letak angka 7 itu dinisbahkan.
 Tujuh = tatanan utuh.
-Semoga saja ia menjadi penanda kesabaran yang paripurna bagi kami.
+Tujuh tahun, Semoga ia menjadi penanda kesabaran yang paripurna bagi kami.
 
 Penanda waktu terbaik untuk pulang.
 Pulang tanpa izin cuti.
@@ -39,11 +39,11 @@ dan duduk di ruang tamu tanpa tenggat keberangkatan.
 Jika besok arah hidupku berubah,
 aku ingin perubahan itu dimulai dari doa.
 
->رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ
+رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ
 
-_**Rabbi innī limā anzalta ilayya min khayrin faqīr.**_
+_Rabbi innī limā anzalta ilayya min khayrin faqīr._
 
-“Wahai Tuhanku, sungguh aku sangat membutuhkan kebaikan apa pun yang Engkau turunkan kepadaku.”
+>Wahai Tuhanku, sungguh aku sangat membutuhkan kebaikan apa pun yang Engkau turunkan kepadaku.
 (QS. Al-Qashash: 24)
 
 Ya Allah,
@@ -62,11 +62,11 @@ baik bagi anak-anakku yang tumbuh tanpa pelukan ayah setiap hari,
 maka dekatkanlah aku kepada mereka
 dengan cara-Mu yang paling lembut.
 
->رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ، وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
+رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ، وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
 
-_**Rabbana hab lanā min azwājinā wa dzurriyyātinā qurrata a‘yun, waj‘alnā lil-muttaqīna imāmā.**_
+_Rabbana hab lanā min azwājinā wa dzurriyyātinā qurrata a‘yun, waj‘alnā lil-muttaqīna imāmā._
 
-“Ya Tuhan kami, anugerahkan kepada kami pasangan dan keturunan sebagai penyejuk mata, dan jadikan kami pemimpin bagi orang-orang yang bertakwa.”
+>Ya Tuhan kami, anugerahkan kepada kami pasangan dan keturunan sebagai penyejuk mata, dan jadikan kami pemimpin bagi orang-orang yang bertakwa.
 (QS. Al-Furqan: 74)
 
 Aku tak meminta jabatan,
@@ -75,16 +75,11 @@ Aku hanya ingin hadir—
 utuh sebagai suami,
 lengkap sebagai ayah.
 
-Namun jika rencana-Mu belum mengarah ke sana,
-ajarkan aku menerima tanpa pahit,
-menunggu tanpa marah,
-dan percaya tanpa syarat.
+اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا
 
->اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا
+_Allāhumma lā sahla illā mā ja‘altahu sahlā, wa anta taj‘alul-ḥazna idzā shi’ta sahlā._
 
-_**Allāhumma lā sahla illā mā ja‘altahu sahlā, wa anta taj‘alul-ḥazna idzā shi’ta sahlā.**_
-
-“Ya Allah, tidak ada yang mudah kecuali yang Engkau mudahkan. Dan Engkau mampu menjadikan kesulitan menjadi mudah jika Engkau kehendaki.”
+>Ya Allah, tidak ada yang mudah kecuali yang Engkau mudahkan. Dan Engkau mampu menjadikan kesulitan menjadi mudah jika Engkau kehendaki.
 (HR. Ibnu Hibban)
 
 Pilihkan yang terbaik untuk kami, ya Allah.
@@ -92,11 +87,11 @@ Dan jika itu bukan yang kuminta hari ini,
 maka jadikan hatiku cukup kuat
 untuk tetap menyebut nama-Mu dengan sebaik-baiknya iman.
 
->اللَّهُمَّ اخْتَرْ لِي وَارْضِنِي بِهِ
+اللَّهُمَّ اخْتَرْ لِي وَارْضِنِي بِهِ
 
-_**Allāhumma ikhtar lī warḍinī bih.**_
+_Allāhumma ikhtar lī warḍinī bih._
 
-“Ya Allah, pilihkan yang terbaik untukku, dan jadikan aku ridha dengan pilihan-Mu.”
+>Ya Allah, pilihkan yang terbaik untukku, dan jadikan aku ridha dengan pilihan-Mu.
 (HR. Ahmad)
 
 Aamiin.
