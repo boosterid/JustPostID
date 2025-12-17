@@ -28,7 +28,7 @@ Lalu pemateri tersenyum, diikuti dengan sepungkas kalimat yang berisi kunci jawa
 
 Hening sejenak. Sebagian peserta mengangguk setuju. Sebagian lain terlihat berpikir.
 
-Dan aku? Aku justru secara reflek menoleh ke belakang, kepada seorang teman, dimana kami pernah mendiskusikan isi buku terjemahan berjudul "Berani Ngomong Langsung" karya Oh Su Hyang — pakar komunikasi, penulis, dan pengajar asal Korea Selatan. Dan salah satu bab awal buku tersebut menyinggung soal topik "orang penting" itu. Menurutku, orang paling penting bagi seseorang adalah dirinya sendiri—dulu.
+Dan aku? Aku justru secara reflek menoleh ke belakang, kepada seorang teman, dimana kami pernah mendiskusikan isi buku terjemahan berjudul "Menjadi Pribadi yang Memikat" karya Marc Reklau — penulis, pembicara, dan pelatih pengembangan diri asal Jerman. Dan salah satu bab awal buku tersebut menyinggung soal topik "orang penting" itu. Menurutku, orang paling penting bagi seseorang adalah dirinya sendiri—dulu.
 
 Bukan karena egois. Tapi karena itu fondasi.
 
