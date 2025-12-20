@@ -66,7 +66,7 @@ Mungkin masalahnya ada pada budaya yang terlalu lama berdamai dengan kata *cukup
 
 Di lintasan yang sama, bukan pelari yang disalahkan karena berlari. Tapi mereka yang berlari dipaksa untuk menyesuaikan diri dengan yang memilih berjalan.
 
-## Bertumbuh hampir selalu sepi
+## Jalan bertumbuh hampir selalu sepi
 
 Kalau kamu sedang berusaha naik level, satu hal perlu kamu terima sejak awal: jalan bertumbuh hampir selalu sepi. Akan ada hari di mana niat baikmu disalahartikan. Akan ada fase di mana usahamu terasa mengganggu ritme orang lain. Bahkan dicurigai.
 
