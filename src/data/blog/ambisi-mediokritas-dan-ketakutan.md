@@ -26,7 +26,7 @@ Lingkungan kerja kadang terasa seperti **lintasan lari panjang**. Semua _start_ 
 
 Ada fenomena yang sering kita anggap sepele: **orang yang berusaha sedikit lebih serius justru sering dianggap masalah.**
 
-Di lintasan yang sama, ada orang yang mulai mempercepat langkah. Bukan untuk menjatuhkan yang lain. Bukan pula untuk pamer stamina. Ia hanya ingin melihat seberapa jauh kakinya bisa membawanya. Tapi bagi mereka yang memilih berjalan santai, suara langkah cepat itu terdengar mengganggu. Dan lahirlah label: **_ambis_**, **_gatekeeper_, dan lain yang serupa dengannya.
+Di lintasan yang sama, ada orang yang mulai mempercepat langkah. Bukan untuk menjatuhkan yang lain. Bukan pula untuk pamer stamina. Ia hanya ingin melihat seberapa jauh kakinya bisa membawanya. Tapi bagi mereka yang memilih berjalan santai, suara langkah cepat itu terdengar mengganggu. Dan lahirlah label: **_ambis_**, **_gatekeeper_**, dan lain yang serupa dengannya.
 
 Lucunya, cap-cap itu jarang datang dari sesama pelari yang juga ingin sampai lebih jauh. Lebih sering justru dari mereka yang sudah lama nyaman di ritme *cukup*.
 
