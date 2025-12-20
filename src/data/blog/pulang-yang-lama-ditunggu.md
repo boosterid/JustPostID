@@ -27,13 +27,13 @@ Tujuh adalah jumlah yang sudah cukup banyak untuk dianggap berarti.
 Bukan cocoklogi,
 coba saja kamu cari tau dimana saja letak angka 7 itu dinisbahkan.
 Tujuh = tatanan utuh.
-Tujuh tahun, Semoga ia menjadi penanda kesabaran yang paripurna bagi kami.
+Tujuh, Semoga ia menjadi penanda kesabaran yang paripurna bagi kami.
 
 Penanda waktu terbaik untuk pulang.
 Pulang tanpa izin cuti.
 Pulang tanpa ransel besar kosong, yang isi saat pergi.
 Pulang untuk menjadi ayah dan suami sepenuhnya—
-mengantar sekolah, menemani belanja,
+mengantar sekolah, menemani belanja, mendengar mereka bercerita secara utuh
 dan duduk di ruang tamu tanpa tenggat keberangkatan.
 
 Jika besok arah hidupku berubah,
@@ -57,7 +57,7 @@ Engkau tahu betapa sering aku berpura-pura kuat,
 agar dua wanitaku tidak ikut goyah.
 
 Jika kepulangan ini baik bagi imanku,
-baik bagi istriku yang setia menjaga rumah,
+baik bagi istri tercinta yang setia menanti,
 baik bagi anak-anakku yang tumbuh tanpa pelukan ayah setiap hari,
 maka dekatkanlah aku kepada mereka
 dengan cara-Mu yang paling lembut.
