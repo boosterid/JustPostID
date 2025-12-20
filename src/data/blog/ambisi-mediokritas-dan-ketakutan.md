@@ -7,7 +7,7 @@ slug: ambisi-mediokritas-dan-ketakutan
 featured: true
 draft: false
 tags:
-  - keluarga
+  - lifehack
 ogImage: ../../assets/images/ogImage_Mailchimp.webp
 description: Mengapa orang yang berusaha lebih sering dilabeli ambis atau gatekeeper? Artikel ini mengulas bagaimana mediokritas kerap menyeret mereka yang ingin maju.
 ---
