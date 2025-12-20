@@ -36,7 +36,7 @@ Nyatanya, Medioker bukan selalu soal kemampuan. Sering kali ia adalah **sikap**.
 
 Masalah muncul ketika ada satu orang yang mulai berlari sedikit lebih cepat. Bukan karena ia paling hebat, tapi karena ia tidak ingin menyesal berhenti terlalu dini. Di titik ini, mediokritas mulai merasa tidak nyaman.
 
-Dan karena tidak semua orang berani mengakui rasa tidak amannya, maka lahirlah label. *Ambis.* *Gatekeeper.* *Sok beda.* Label ini merupakan cara termudah untuk menyederhanakan kecemasan yang tak sempat diproses.
+Dan karena tidak semua orang berani mengakui rasa tidak amannya, maka lahirlah label: *Ambis,* *Gatekeeper,* *Sok beda.*, dsb. Label ini merupakan cara termudah untuk menyederhanakan kecemasan yang tak sempat diproses.
 
 ## Budaya yang pelan-pelan menyerah
 
