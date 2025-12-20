@@ -60,7 +60,7 @@ Berlari lebih cepat memang melelahkan. Tapi berhenti hanya karena takut terlihat
 
 ## Lalu di mana masalahnya?
 
-Mungkin masalahnya bukan pada orang yang terlalu serius, yang selama ini dilabeli **_ambis_**, **_gatekeeper_**, dan semacamnya. Bukan pada mereka yang bekerja lebih awal. Bukan pada mereka yang bertanya lebih produktif. Dan tentu bukan pada rekan kita yang lebih berprestasi.
+Mungkin masalahnya bukan pada orang yang terlalu serius, yang selama ini dilabeli **_ambis_**, **_gatekeeper_**, dan semacamnya. Bukan pada mereka yang bekerja lebih awal. Bukan pada mereka yang bekerja lebih produktif. Dan tentu bukan pada rekan kita yang lebih berprestasi.
 
 Mungkin masalahnya ada pada budaya yang terlalu lama berdamai dengan kata *cukup*. Dan ketika *cukup* merasa terancam oleh *lebih*, yang diserang bukan idenya—melainkan orangnya.
 
