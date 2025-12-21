@@ -2,7 +2,7 @@
 author: Agung
 pubDatetime: 2025-12-21T20:19:52.737+07:00
 modDatetime: 2025-12-21T20:19:52.737+07:00
-title: "Bloom: Pelajaran Hidup dari Secangkir Kopi dari Lereng Gunung Sindoro"
+title: "Bloom: Pelajaran Hidup dari Secangkir Kopi Bansari"
 slug: bloom-di-tengah-hujan-cerita-kopi-sindoro
 featured: true
 draft: false
