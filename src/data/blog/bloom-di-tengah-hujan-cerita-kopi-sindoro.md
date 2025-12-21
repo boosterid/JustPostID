@@ -19,7 +19,7 @@ Kehadirannya seperti meredam sejenak suara bising deru mesin kendaraan yang lalu
 
 Di waktu yang hampir bersamaan, terpaut jarak 802 kilometer, dari Tangerang Selatan, istriku mewartakan hujan yang sama, “Di rumah juga hujan lebat.”. Ah, hujan—entah kenapa—membuat sore ini terasa serempak. Seolah ada sesuatu yang menyatukan, meski kami tidak sedang berada di tempat yang sama.
 
-Di kamar kos berukuran 4,5 x 3,2 meter ini, aku menyiapkan ritual kecil yang selalu berulang. Kalau warga _Ratu Elisabeth_ terbiasa dengan _Afternoon Tea_, maka ritualnya adalah ngopi. Masih dengan pilihan manual brew, V60. Pilihan biji kopi sore ini jatuh pada:
+Di kamar kos yang tek seberapa besar ini, aku menyiapkan ritual kecil yang selalu berulang. Kalau warga _Ratu Elisabeth_ terbiasa dengan _Afternoon Tea_, maka ritualku adalah ngopi. Masih dengan pilihan manual brew, V60. Pilihan biji kopi sore ini jatuh pada:
 
 ### Bansari,
 
