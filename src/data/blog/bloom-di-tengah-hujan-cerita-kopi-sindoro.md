@@ -31,9 +31,9 @@ Di kamar kos yang tek seberapa besar ini, aku menyiapkan ritual kecil yang selal
   
 Penamaan _Bansari_ sendiri merujuk pada asal dimana biji kopi ini dipetik. Desa Bansari yang berada di lereng Gunung Sindoro, Kabupaten Temanggung, Jawa Tengah. Desa ini berada pada variasi ketinggian 1.000 hingga 1.500 meter di atas permukaan laut (mdpl).
 
-Aku membayangkan pohon kopi yang membuahkan _berry_ kopi ini dulu tumbuh pelan, menunggu musim, hujan, dan matahari, jauh sebelum akhirnya biji sangrainya hadi di hadapanku.
+Aku membayangkan pohon kopi yang membuahkan _berry_ kopi ini dulu tumbuh pelan, menunggu musim, hujan, dan matahari, jauh sebelum akhirnya biji sangrainya hadir di hadapanku.
 
-Air kupanaskan hingga 90 derajat. Tidak mendidih. Karena jika terlalu panas seringkali yang hadir kemudian hanya rasa pahit, rasa kopi yang terlalu familiar bagi sebagian besar kita sejak dulu.
+Air kupanaskan hingga 90 derajat celcius. Tidak mendidih. Karena jika terlalu panas seringkali yang hadir kemudian hanya rasa pahit, rasa kopi yang terlalu familiar bagi sebagian besar kita sejak dulu.
 
 Kopi kugiling medium. Rasio seduh 1:15, yang artinya dengan 15 gram bubuk kopi, diperlukan takaran air sebanyak 225 gram.
 
