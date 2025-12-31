@@ -36,7 +36,7 @@ _*Konsep Flow*_ ini coba aku ringkaskan untukmu, sebagai berikut.
 
 >Dalam psikologi, ada satu kondisi yang disebut flow, yaitu sebuah keadaan ketika seseorang sepenuhnya tenggelam dalam apa yang sedang ia kerjakan. Fokusnya utuh, pikirannya hadir di saat ini, dan aktivitas itu dijalani bukan karena imbalan di akhir, melainkan karena prosesnya sendiri terasa memuaskan.
 
->Kondisi flow muncul ketika tantangan yang dihadapi seimbang dengan kemampuan yang dimiliki. Tidak terlalu mudah hingga membosankan, dan tidak terlalu sulit hingga membuat putus asa. Di titik inilah manusia merasa paling hidup: ada tujuan yang jelas, ada umpan balik yang terasa, dan ada perasaan mampu mengendalikan apa yang sedang dikerjakan. Waktu bahkan sering terasa menyusutk,jam berlalu tanpa terasa.
+>Kondisi flow muncul ketika tantangan yang dihadapi seimbang dengan kemampuan yang dimiliki. Tidak terlalu mudah hingga membosankan, dan tidak terlalu sulit hingga membuat putus asa. Di titik inilah manusia merasa paling hidup: ada tujuan yang jelas, ada umpan balik yang terasa, dan ada perasaan mampu mengendalikan apa yang sedang dikerjakan. Waktu bahkan berlalu tanpa terasa.
 
 >Yang menarik, flow tidak bergantung pada jenis pekerjaannya. Ia bisa muncul saat bekerja, menulis, membaca, berolahraga, atau mengerjakan hal-hal yang menuntut keterlibatan penuh. Aktivitasnya boleh berbeda, tapi pengalamannya serupa, diri terasa menyatu dengan tindakan.
 
