@@ -20,7 +20,7 @@ Ketika tiba saat aku menyudahi aplikasi _Freeletics_ yang kujadikan panduan olah
 
 Dari situ aku mulai menangkap satu benang merah yang halus tapi tegas: banyak kegagalan hidup tidak lahir karena kita tidak cukup pintar atau tidak cukup berusaha, melainkan karena kita terlalu cepat membuka diri di tempat yang salah. Kita terbiasa mengira berbagi itu selalu sehat, padahal tidak semua cerita perlu keluar dari kepala kita. Beberapa justru kehilangan daya begitu diucapkan. Dan di situlah pelajaran pertama tentang seni diam mulai terasa.
 
-Baik, berikut kutuliskan kembali untukmu 6 pelajaran hidup soal diam, yang Charlie Munger ajarkan. Jika benar "Diam itu emas, bicara itu perak", maka hal ini relevan dengan investasi. Investasi hidup.
+Baik, berikut kutuliskan kembali untukmu 6 pelajaran hidup soal diam, yang Charlie Munger ajarkan. Jika benar "Diam itu emas, bicara itu perak", maka hal ini relevan dengan investasi: investasi hidup.
 
 1. Rencana besar tidak perlu diumumkan.
 
@@ -38,7 +38,7 @@ Baik, berikut kutuliskan kembali untukmu 6 pelajaran hidup soal diam, yang Charl
 
   Ada orang-orang yang terus mencari validasi atas betapa hebat dirinya. Tentang pencapaian, tentang kemampuan, tentang keunggulan yang ingin dilihat. Tapi semakin sering seseorang membicarakan kelebihannya, justru semakin terasa ada sesuatu yang sedang ia tutupi. Kekuatan yang matang tidak ribut. Dan orang yang benar-benar percaya pada dirinya tidak perlu sibuk mencari tepuk tangan.Ia bekerja, lalu membiarkan hasilnya bicara.
   
-  >singa yang tidak perlu mengaum setiap menit. Maka bekerjalah, lalu biarkan hasilnya bicara.
+  >singa tidak mengaum setiap menit. Maka bekerjalah, lalu biarkan hasilnya bicara.
 
 4. Langkah selanjutnya lebih aman jika disimpan.
    
