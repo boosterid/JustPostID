@@ -54,7 +54,7 @@ Baik, berikut kutuliskan kembali untukmu 6 pelajaran hidup soal diam, yang Charl
 
 6. Masa lalu tidak perlu dibagikan ke semua orang.
    
-  Masa lalu adalah bagian dari kita, tapi tidak harus menjadi cerita yang kita bagikan ke semua orang. Kesalahan, kegagalan, dan luka lama—ketika kita ceritakan, ia tidak lagi tinggal di dalam diri. Ia berpindah ke kepala orang lain, dan sering kali dipakai untuk menentukan siapa kita hari ini. Para orang yang salah, masa lalu akan menjadi label berdasarkan siapa kita dahulu, bukan siapa kita yang sekarang.
+  Masa lalu adalah bagian dari kita, tapi tidak harus menjadi cerita yang kita bagikan ke semua orang. Kesalahan, kegagalan, dan luka lama—ketika kita ceritakan, ia tidak lagi tinggal di dalam diri. Ia berpindah ke kepala orang lain, dan sering kali dipakai untuk menentukan siapa kita hari ini. Pada orang yang salah, masa lalu akan menjadi label berdasarkan siapa kita dahulu, bukan siapa kita yang sekarang.
 
   >Tidak semua orang perlu tahu dari mana kita datang. Beberapa cukup tahu ke mana kita sedang berjalan.
 
