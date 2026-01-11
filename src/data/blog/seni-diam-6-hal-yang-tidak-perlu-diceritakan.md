@@ -42,7 +42,7 @@ Baik, berikut kutuliskan kembali untukmu 6 pelajaran hidup soal diam, yang Charl
 
 4. Langkah selanjutnya lebih aman jika disimpan.
    
-  Ada sesuatu yang aneh ketika kita terlalu sering mengumumkan langkah berikutnya. Seolah hidup ini perlu disiarkan. Padahal begitu sebuah rencana _diumbar_ artinya kita mengundang dunia untuk ikut campur. Ia berhenti menjadi milik kita sepenuhnya. Orang lain mulai memberi opini, lingkungan mulai membentuk hambatan. Dan disadari, kita sedang berjalan di jalur yang tidak lagi kita pilih sendiri, karena keraguan orang lain turut menggiring langkah kita.
+  Ada sesuatu yang aneh ketika kita terlalu sering mengumumkan langkah berikutnya. Seolah hidup ini perlu disiarkan. Padahal begitu sebuah rencana _diumbar_ artinya kita mengundang dunia untuk ikut campur. Ia berhenti menjadi milik kita sepenuhnya. Orang lain mulai memberi opini, lingkungan mulai membentuk hambatan. Tanpa disadari, kita sedang berjalan di jalur yang tidak lagi kita pilih sendiri, karena keraguan orang lain turut menggiring langkah kita.
   
   >Diam memberi kita ruang untuk melangkah tanpa harus menjelaskan. Dan sering kali, ruang itulah yang membuat sebuah langkah benar-benar sampai.
 
