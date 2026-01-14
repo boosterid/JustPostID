@@ -18,7 +18,7 @@ Jejak nostalgik rupanya tidak hanya tinggal di foto atau catatan lama. Ia juga t
 
 Aku masih ingat satu masa di sekitar 2015. Di ruang kerja yang biasanya ramai oleh target dan tenggat itu, seorang _senior_—yang sering kami sapa dengan panggilan 'Simbah'—memperkenalkan kami pada seduhan kopi yang dibawanya sebagai buah tangan dari Ruteng, Nusa Tenggara Timur. Duo biji kopi _Yellow Caturra_ dan _Juria_. Kami menyesap seduhan itu dalam diam, lalu tiba-tiba ruangan yang berisi sembilan meja berformasi melingkar yang lebih mirip ruang rapat itu seketika berubah menjadi tempat orang-orang bercerita. Di situlah aku pertama kali paham bahwa larutan hitam kafein itu ampuh sebagai pemersatu.
 
-Waktu itu, aku belum tahu bahwa biji kopi yang kami seduh, _Yellow Caturra_ adalah varietas langka. Jumlah pohonnya tidak banyak. Aku hanya tahu rasanya berbeda. Baru bertahun-tahun kemudian aku paham jika _Yellow Caturra_ memang kopi tampil berbeda. Sesuai namanya, Buahnya matang dalam warna kuning, bukan merah layaknya _berry_ kopi kebanyakan. Seolah sejak awal ia memilih jalur yang tidak umum.
+Waktu itu, aku belum tahu bahwa biji kopi yang kami seduh, _Yellow Caturra_ adalah varietas langka. Jumlah pohonnya tidak banyak. Aku hanya tahu rasanya berbeda. Baru bertahun-tahun kemudian aku paham jika _Yellow Caturra_ memang kopi yang tampil berbeda. Sesuai namanya, Buahnya matang dalam warna kuning, bukan merah layaknya _berry_ kopi kebanyakan. Seolah sejak awal ia memilih jalur yang tidak umum.
 
 Di kebun-kebun dataran tinggi seperti di sekitar Bajawa, Manggarai, ia tumbuh dengan cara yang juga tidak tergesa. Produksinya sedikit, perawatannya lebih rewel, dan hasilnya tidak selalu bisa diprediksi. Tapi justru di situlah keistimewaannya lahir. Dalam keterbatasan, ia menyimpan karakter rasa yang bersih, ringan, dan tenang. Ada nuansa buah, ada sentuhan seperti teh—rasa yang tidak memaksa, tapi bertahan lama.
 
@@ -36,4 +36,4 @@ Spontan, dengan maksud berbagi memori lawas, kufoto buskus biji kopi berwarna da
 
 >Mbah, sik iling karo kopi iki, pora? (Mbah, masih inget sama kopi ini?)
 
-Dan, dijawabnya: Wah, mantap..
+Dan, dijawabnya: "Wah, mantap.."
