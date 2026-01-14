@@ -14,7 +14,7 @@ description: Pelajaran hidup dari Charlie Munger. Refleksi tentang kekuatan kehe
 
 ![something](@/assets/images/ogImage_Mailchimp.webp)
 
-Gresik, pagi ini, 11 Januari 2026. Untuk menghalau penyesalan yang mungkin terjadi akibat melewatkan fajar begitu saja, aku mengawali pagi dengan _jogging_ ringan. Alhamdulillah, kaki-kaki yang tak lagi muda ini masih diberkahi kekuatan untuk melangkah sejauh 6,55 km: memantik rilisnya _Endorfin_, _Dopamin_, _Serotinin_, dkk. Seusainya, kulanjutkan dengan _workout_ ringan di kamar kost yang tak seberapa luas. Semoga menjadi pembuka hari yang baik.
+Gresik, pagi ini, 11 Januari 2026. Untuk menghalau penyesalan yang mungkin terjadi akibat melewatkan fajar begitu saja, aku mengawali pagi dengan _jogging_ ringan. _Alhamdulillah_, kaki-kaki yang tak lagi muda ini masih diberkahi kekuatan untuk melangkah sejauh 6,55 km: memantik rilisnya _Endorfin_, _Dopamin_, _Serotinin_, dkk. Seusainya, kulanjutkan dengan _workout_ ringan di kamar kost yang tak seberapa luas. Semoga menjadi pembuka hari yang baik.
 
 Ketika tiba saat aku menyudahi aplikasi _Freeletics_ yang kujadikan panduan olahraga, muncul sebuah rekomendasi tautan video di gawaiku tentang Charlie Munger. Tokoh di dunia investasi yang selama ini sering dijadikan rujukan, dan namanya sering disandingkan dengan nama besar Warren Buffett. Kali ini pelajaran yang Beliau berikan melalui video tersebut bukanlah soal investasi, melainkan sebuah pelajaran hidup. Jujur saja, aku tidak berekspektasi menemukan pelajaran hidup di sana. Tapi entah kenapa aku menekan _play_, dan tidak berhenti sampai video itu selesai. Aku seperti sedang diajak duduk diam, menatap hidup dari sudut yang jarang kita pilih: **tentang apa saja yang sebaiknya tidak perlu kita ceritakan**.
 
@@ -30,7 +30,7 @@ Baik, berikut kutuliskan kembali untukmu 6 pelajaran hidup soal diam, yang Charl
 
 2. Tidak semua orang pantas memegang cerita tentang ketakukan kita.
    
-  Tidak semua orang yang mendengarkan cerita kita sedang berniat memahami. Terutama ketika yang kita bagikan adalah ketakutan. Ada hal-hal dalam diri yang terlalu rapuh untuk diumbar sembarangan. Ketakutan, ketika jatuh ke tangan yang salah, ia tidak kembali sebagai empati, melainkan menjadi _**tekanan**_. Sewaktu-waktu ia bisa menjelma menjadi tekanan halus, alat orang lain _memanimpulasi_ langkah kita. Dunia ini tidak selalu kejam, tapi juga tidak selalu aman. Dan mungkin itu sebabnya, sebagian keberanian terbaik justru tumbuh dalam diam.
+  Tidak semua orang yang mendengarkan cerita kita sedang berniat memahami. Terutama ketika yang kita bagikan adalah ketakutan. Ada hal-hal dalam diri yang terlalu rapuh untuk diumbar sembarangan. Ketakutan, ketika jatuh ke tangan yang salah, ia tidak kembali sebagai empati, melainkan menjadi _**tekanan**_. Sewaktu-waktu ia bisa menjelma menjadi tekanan halus, alat orang lain _memanipulasi_ langkah kita. Dunia ini tidak selalu kejam, tapi juga tidak selalu aman. Dan mungkin itu sebabnya, sebagian keberanian terbaik justru tumbuh dalam diam.
 
   >Ingat, dunia ini bukan ruang terapi kolektif.
 
