@@ -8,7 +8,7 @@ featured: true
 draft: false
 tags:
   - lifehack
-ogImage: ../../assets/images/ogImage_YellowCaturra.webp
+ogImage: ../../assets/images/ogImage_Mailchimp.webp
 description: Kamu tidak salah baca judul post ini. Ada kalanya, aku bisa benar-benar _mendengar_ seyummu dari ujung telepon. Tentu ini bukan gombal atau semacamnya. Guna meyakinkanmu, aku sampai mencari beberapa penelitian ilmiah untuk mendukungnya.
 ---
 
