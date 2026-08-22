@@ -48,7 +48,7 @@ Ia tidak selalu meninggalkan monumen.
 
 Kadang ia hanya meninggalkan jalan yang berkali-kali kita lewati, tanpa pernah kita sadari bahwa suatu hari nanti jalan itu akan kita rindukan.
 
-Beberapa hari belakangan ini, aku diminta membantu seorang teman untuk membaca dan menelaah setidaknya 33 tulisan tentang “Gresik dan Kemerdekaan” yang sedang dilombakan.
+Memori tentang tak begitu saja hadir. Atas permintaan seorang rekan, aku mendapat amanah untuk membaca dan menelaah setidaknya 33 tulisan, buah pikir rekan-rekan lama, tentang “Gresik dan Kemerdekaan”, yang sedang dilombakan.
 
 Masing-masing bercerita dari sisi yang berbeda. Ada sejarah, perjuangan, keluarga, pekerjaan, kopi, budaya, kesunyian, dan orang-orang yang datang dan pergi.
 
@@ -140,11 +140,11 @@ Aktivitas pagi yang hampir rutin kujalani setidaknya tiga sampai empat hari dala
 
 Rutenya random.
 
-Kadang, jogging di kawasan ABR, kadang ke GBA, kadang menuju GKB. Kamu pasti bingung soal penamaan lokasi dengan tiga huruf itu. Demikian adanya, masyarakat Gresik sangat menyukai penyebutan nama lokasi-lokasi pengembangan kawasan fungsional tersebut dengan akronimnya. Misal: ABR merupakan singkatan dari Alam Bukit Raya; GBA merujuk pada Griya Bunder Asri; sementara GKB merupakan penyebutan ikonik untuk Gresik Kota Baru.
+Kadang, jogging di kawasan ABR, kadang ke GBA, kadang menuju GKB. Kamu pasti bingung soal penamaan lokasi dengan tiga huruf itu. Demikian adanya, masyarakat Gresik sangat menyukai penyebutan nama lokasi-lokasi kawasan fungsional tersebut dengan akronimnya. Misal: ABR merupakan singkatan dari Alam Bukit Raya; GBA merujuk pada Griya Bunder Asri; sementara GKB merupakan penyebutan ikonik untuk Gresik Kota Baru.
 
 Oiya, tak jarang juga aktivitas jogging kulakukan di pelataran parkiran mal termegah seantero Gresik, _Icon Mall_. Atau, di tempat lain yang juga menjadi salah satu lokasi olahraga pagi favorit masyarakat Gresik, lapangan di halaman Kantor Bupati Gresik.
 
-Lagi ini membawaku melihat kesahajaan Gresik pada pagi hari.
+Lari seiring terbit matahari ini membawaku melihat kesahajaan Gresik pada pagi hari.
 
 Kota yang belum sepenuhnya sibuk. Orang-orang yang baru memulai aktivitas. Jalanan yang perlahan ramai. Udara pagi. Bangunan-bangunan yang kulewati tanpa perlu tahu namanya.
 
@@ -225,10 +225,6 @@ Dan pulang sebagai manusia biasa.
 Dulu aku mungkin hanya melihat seluruh aktivitas tersebut sebagai rutinitas.
 
 Sekarang, ketika mencoba mengingatnya kembali, semuanya seperti potongan gambar. Satu per satu. Kecil-kecil. Tidak spektakuler. Tetapi lengkap.
-
-Seperti lukisan di sisi Damar Kurung.
-
-Apa yang Sebenarnya Tergambar?
 
 Mungkin itulah sebabnya aku teringat Damar Kurung setelah membaca 33 tulisan rekan-rekan lamaku tentang Gresik.
 
