@@ -8,37 +8,27 @@ featured: true
 draft: false
 tags:
   - cerita
-ogImage: ../../assets/images/ogImage_Mailchimp.webp
-description: Kamu tidak salah baca judul post ini. Ada kalanya, aku bisa benar-benar _mendengar_ seyummu dari uDua tahun enam bulan tinggal di Gresik meninggalkan banyak cerita. Dari perjalanan Pantura, kopi, warung sederhana, hingga Damar Kurung, inilah potret Gresik yang tinggal dalam ingatan..
+ogImage: ../../assets/images/Damar-Kurung.webp
+description: Aku pernah tinggal dua tahun enam bulan di Gresik. Ternyata, yang kubawa pulang bukan hanya kenangan, tetapi juga bagian Gresik yang masih tinggal di dalam diri.
 ---
 
-![something](@/assets/images/ogImage_Mailchimp.webp)
+![something](@/assets/images/Damar-Kurung.webp)
 
 Aku pernah tinggal di Gresik selama dua tahun enam bulan.
 
-Dua tahun enam bulan yang sebagian besarnya diisi dengan rutinitas yang, saat itu, terasa biasa saja: bekerja, pulang ke kost, tidur, bangun pagi, lalu bekerja lagi.
-
-Rutinitas paling istimewa kala itu adalah saat jadwal pulang dua pekanan tiba.
+Dua tahun enam bulan yang sebagian besarnya diisi dengan rutinitas yang, saat itu, terasa biasa saja: bekerja, pulang ke kost, tidur, bangun pagi, lalu bekerja lagi. Rutinitas paling istimewa kala itu adalah saat jadwal _pulang dua pekanan_ tiba.
 
 Ya, pulang ke Tangerang.
 
-Pulang.
+**Pulang**.
 
 Kenapa bagian ini pun disebut rutin?
 
-Ya, karena berulang hampir setiap Jumat di pekan kedua dan keempat.
+Ya, karena berulang hampir setiap Jumat di pekan kedua dan keempat. _Rundown_-nya pun hampir selalu sama: selesai bekerja, kembali ke kost, mandi, salat Magrib, lalu melanjutkan perjalanan sekitar 22 kilometer menyusuri jalan Pantura Gresik–Lamongan yang melegenda, menuju Stasiun Lamongan.
 
-_Rundown_-nya pun hampir selalu sama: selesai bekerja, kembali ke kost, mandi, salat Maghrib, lalu melanjutkan perjalanan sekitar 22 kilometer menyusuri jalan Pantura Gresik–Lamongan yang melegenda, menuju Stasiun Lamongan.
+Jalan panjang yang sepertinya tidak mengenal jeda dari deru _oto-oto_ dengan tiga sumbu roda dan iring-iringan truk besar, masing-masing _menggendong_ bebannya. Mungkin, di antara muatannya adalah apa yang tersaji di meja makanmu saat ini.
 
-Jalan panjang yang sepertinya tidak mengenal jeda dari deru _oto-oto_ dengan tiga sumbu roda, iring-iring truk besar, masing-masing menggendong beban muatannya.
-
-Mungkin, di antara muatannya adalah apa yang tersaji di meja makanmu saat ini.
-
-Dulu aku hanya melihat iring-iringan kendaraan itu sebagai salah satu sebab perjalanan kadang terasa lebih lambat.
-
-Belakangan, aku melihatnya dengan cara berbeda.
-
-Setidaknya, _arak-arakan_ truk itu adalah penampakan dari roda ekonomi Jawa. Bahkan, ekonomi Nusantara.
+Iring-iringan kendaraan yang seringkali menjadi satu sebab perjalanan terasa lebih lambat. Yang justru menjadi pertanda bahwa ekonomi negeri ini tengah melaju seiring gerak roda-roda melindas _Groote Postweg_ yang dibangun di era Daendels.
 
 Sementara aku hanya sedang berusaha pulang.
 
@@ -60,43 +50,11 @@ Kadang ia hanya meninggalkan jalan yang berkali-kali kita lewati, tanpa pernah k
 
 Beberapa hari belakangan ini, aku diminta membantu seorang teman untuk membaca dan menelaah setidaknya 33 tulisan tentang “Gresik dan Kemerdekaan” yang sedang dilombakan.
 
-Masing-masing bercerita dari sisi yang berbeda.
+Masing-masing bercerita dari sisi yang berbeda. Ada sejarah, perjuangan, keluarga, pekerjaan, kopi, budaya, kesunyian, dan orang-orang yang datang dan pergi.
 
-Ada sejarah.
+Dari kesemuanya, aku seperti sedang melihat kembali sebuah Damar Kurung.
 
-Ada perjuangan.
-
-Ada keluarga.
-
-Ada pekerjaan.
-
-Ada kopi.
-
-Ada budaya.
-
-Ada kesunyian.
-
-Ada orang-orang yang datang dan pergi.
-
-Dari kesemuanya, Aku seperti sedang melihat kembali sebuah Damar Kurung. Soal apa itu damar kurung? akan kubagi link artikel yang mengulasnya di bagian akhir cerita ini ya.
-
-Lampion khas Gresik itu memiliki beberapa sisi yang dihiasi gambar-gambar kehidupan.
-
-Bukan hanya peristiwa besar.
-
-Bukan hanya tokoh penting.
-
-Tetapi juga hal-hal sederhana yang membuat kehidupan sebuah masyarakat menjadi hidup.
-
-Orang bekerja.
-
-Orang berdagang.
-
-Orang berkumpul.
-
-Orang beribadah.
-
-Orang menjalani hari.
+Damar Kurung adalah lampion khas Gresik yang menjadi salah satu identitas budaya kota ini. Di balik cahayanya, keempat sisinya dihiasi gambar-gambar sederhana tentang kehidupan sehari-hari masyarakat Gresik. Ia bukan sekadar lampion, melainkan semacam kanvas kecil yang merekam cerita sebuah kota.
 
 Dan tiba-tiba aku merasa, selama dua tahun enam bulan tinggal di Gresik, aku juga sedang membuat satu lukisan kecil tentang kota ini.
 
@@ -106,39 +64,17 @@ Bukan dengan cat.
 
 Melainkan dengan perjalanan, percakapan, secangkir kopi, sepiring mie godog, seporsi ayam geprek, jogging pagi, dan banyak hal kecil yang waktu itu tidak pernah terpikir akan kusimpan dalam ingatan.
 
-Sebab itu, ijinkan aku menceritakan sekelumit sketsa tiap sisi Damar Kurung itu kepadamu.
+Sebab itu, izinkan aku menceritakan sekelumit sketsa tiap sisi Damar Kurung itu kepadamu.
 
-Satu sisinya mungkin berisi jalan pulang.
-
-Sisi lainnya berisi orang-orang.
-
-Ada pula rutinitas yang dulu terasa biasa, tetapi sekarang justru terasa akrab.
+Satu sisinya mungkin berisi jalan pulang. Sisi lainnya berisi orang-orang. Ada pula rutinitas yang dulu terasa biasa, tetapi sekarang justru terasa akrab.
 
 Dan mungkin, di sisi terakhir, ada kesendirian yang ternyata tidak selalu berarti sepi.
 
-## Sisi Pertama: Jalan Pulang
+### Sisi Pertama: Jalan Pulang
 
 Aku cukup hafal ritmenya.
 
-Selesai kerja.
-
-Pulang ke kost.
-
-Mandi.
-
-Salat.
-
-Selepas Maghrib berangkat.
-
-Pantura.
-
-Truk-truk besar.
-
-Stasiun Lamongan.
-
-Kereta.
-
-Tangerang.
+Selesai kerja. Pulang ke kost. Mandi. Salat. Selepas Magrib berangkat. Pantura. Truk-truk besar. Stasiun Lamongan. Kereta. Tangerang.
 
 Begitu terus, setiap dua pekan.
 
@@ -150,13 +86,7 @@ Kita sering kali baru menyadari nilai sebuah rutinitas setelah rutinitas itu tid
 
 Sekarang, ketika sudah tidak harus lagi melewati jalur itu setiap dua pekan, aku justru sesekali merindukannya.
 
-Lampu kendaraan.
-
-Deretan truk.
-
-Jalan yang panjang.
-
-Perasaan bahwa setelah semua itu ada rumah yang menunggu.
+Lampu kendaraan. Deretan truk. Jalan yang panjang. Perasaan bahwa setelah semua itu ada rumah yang menunggu.
 
 Mungkin pulang memang bukan semata-mata soal tempat tujuan.
 
@@ -164,7 +94,7 @@ Kadang pulang adalah perjalanan yang kita jalani berkali-kali sampai akhirnya me
 
 Dan Pantura Gresik–Lamongan pernah menjadi bagian itu.
 
-## Sisi Kedua: Kopi dan Orang-orang
+### Sisi Kedua: Kopi dan Orang-orang
 
 Di kantor, ada satu hal sederhana yang membuat hari-hari terasa lebih hidup.
 
@@ -172,17 +102,11 @@ Kopi.
 
 Bukan kopi dari barista profesional.
 
-Kami punya barista amatir, namun tak kalah dengan terampilnya penyaji kopi empat puluh ribuan di _coffe shop_ langgananmu.
+Kami punya barista amatir, namun tak kalah terampil dengan penyaji kopi seduh manual seharga _tiga puluh ribuan_ di _coffee shop_ langgananmu. Kerap disapa dengan panggilan “Abah” Galih, nama lengkapnya A. Galih Irsyad.
 
-Kerap disapa dengan panggilan 'Abah' Galih.
+Tetapi Pak _Hadji_ Murdani, tetangga _kubikel_ Abah, punya teori sendiri. Menurutnya, huruf “A” di depan nama Galih adalah singkatan dari...
 
-Nama lengkapnya A. Galih Irsyad.
-
-Tetapi Pak Haji Murdani (temanku yang lain) punya teori sendiri.
-
-Menurutnya, huruf “A” di depan nama Galih adalah singkatan dari...
-
-*Andreas*.
+**Andreas**.
 
 Entah bagaimana ceritanya.
 
@@ -190,19 +114,9 @@ Tidak penting juga.
 
 Justru mungkin karena tidak penting, cerita itu masih kuingat.
 
-Di antara pekerjaan yang kadang serius, target yang harus dicapai, dan persoalan yang harus diselesaikan, selalu ada ruang untuk bercanda.
+Di antara pekerjaan yang kadang serius, target yang harus dicapai, dan persoalan yang harus diselesaikan, selalu ada ruang untuk bercanda. Kopi seduhan Abah Galih menjadi semacam jeda.
 
-Kopi seduhan Abah Galih menjadi semacam jeda.
-
-Kami berdiskusi.
-
-Berbeda pendapat.
-
-Saling melempar ide.
-
-Kadang pembicaraan tetap berada di jalurnya.
-
-Kadang entah bagaimana bisa berbelok jauh.
+Kami berdiskusi. Berbeda pendapat. Saling melempar ide. Kadang pembicaraan tetap berada di jalurnya, kadang entah bagaimana bisa berbelok jauh.
 
 Lalu seseorang menuangkan kopi lagi.
 
@@ -220,41 +134,19 @@ Ada kopi.
 
 Dan ada hubungan-hubungan kecil yang diam-diam membuat sebuah ruang kerja menjadi bagian dari kehidupan.
 
-## Sisi Ketiga: Kota yang Kukenal Sambil Berlari
+### Sisi Ketiga: Kota yang Kukenal Sambil Berlari
 
-Aku sering presensi paling pagi.
-
-Bukan karena ingin mendapatkan penghargaan sebagai pegawai paling rajin.
-
-Aku sekalian jogging.
+Aktivitas pagi yang hampir rutin kujalani setidaknya tiga sampai empat hari dalam sepekan di kota ini di antaranya _jogging_.
 
 Rutenya random.
 
-Kadang ke arah Griya Bunder Asri.
+Kadang, jogging di kawasan ABR, kadang ke GBA, kadang menuju GKB. Kamu pasti bingung soal penamaan lokasi dengan tiga huruf itu. Demikian adanya, masyarakat Gresik sangat menyukai penyebutan nama lokasi-lokasi pengembangan kawasan fungsional tersebut dengan akronimnya. Misal: ABR merupakan singkatan dari Alam Bukit Raya; GBA merujuk pada Griya Bunder Asri; sementara GKB merupakan penyebutan ikonik untuk Gresik Kota Baru.
 
-Kadang ke halaman *Icon Mall*.
+Oiya, tak jarang juga aktivitas jogging kulakukan di pelataran parkiran mal termegah seantero Gresik, _Icon Mall_. Atau, di tempat lain yang juga menjadi salah satu lokasi olahraga pagi favorit masyarakat Gresik, lapangan di halaman Kantor Bupati Gresik.
 
-Kadang mengelilingi lapangan di halaman Kantor Bupati.
+Lagi ini membawaku melihat kesahajaan Gresik pada pagi hari.
 
-Kadang menuju Gresik Kota Baru (GKB).
-
-Tidak ada target khusus.
-
-Yang penting bergerak.
-
-Dan melihat.
-
-Melihat Gresik pada pagi hari.
-
-Kota yang belum sepenuhnya sibuk.
-
-Orang-orang yang baru memulai aktivitas.
-
-Jalanan yang perlahan ramai.
-
-Udara pagi.
-
-Bangunan-bangunan yang kulewati tanpa perlu tahu namanya.
+Kota yang belum sepenuhnya sibuk. Orang-orang yang baru memulai aktivitas. Jalanan yang perlahan ramai. Udara pagi. Bangunan-bangunan yang kulewati tanpa perlu tahu namanya.
 
 Aku menikmati Gresik dengan cara yang sederhana.
 
@@ -266,65 +158,31 @@ Aku menikmatinya sebagai seseorang yang sedang menjalani hari.
 
 Mungkin justru dari sanalah sebuah kota mulai terasa akrab.
 
-Bukan ketika kita hafal semua tempatnya.
+Bukan ketika kita hafal semua tempatnya, tetapi ketika kita mulai tahu ke mana kaki akan membawa kita tanpa perlu berpikir terlalu lama.
 
-Tetapi ketika kita mulai tahu ke mana kaki akan membawa kita tanpa perlu berpikir terlalu lama.
+### Sisi Keempat: Mie Godog, Tahu Tek, dan Hal-hal Kecil yang Menjadi Rumah
 
-## Sisi Keempat: Mie Godog, Tahu Tek, dan Hal-hal Kecil yang Menjadi Rumah
+Hari-hari selepas jam kantor, ada kalanya aku mampir ke Warung Cak Pur. Rekomendasi dari Loisa Viencentia Elsye Kosalia Sunardjo. Eh, itu nama satu orang ya, memang panjang. Meski panjang, tapi, kami lebih akrab memanggilnya Nenek.
 
-Hari-hari selepas jam kantor, ada kalanya aku mampir ke Warung Cak Pur.
-
-Rekomendasi dari Loisa Viencentia Elsye Kosalia Sunardjo.
-
-Nama yang panjang.
-
-Tapi kami lebih akrab memanggilnya Nenek.
-
-Beliau semacam kamus kuliner berjalan.
-
-Kalau ada yang bertanya,
-
-“Enaknya makan apa?”
-
-Kemungkinan besar Nenek sudah punya jawabannya.
+Beliau semacam kamus kuliner berjalan. Kalau ada yang bertanya, “Enaknya makan apa?”, kemungkinan besar Nenek sudah punya jawabannya.
 
 Salah satunya: mie godog Cak Pur.
 
-Dan ternyata memang _endes_.
+Dan ternyata memang endes.
 
-Apalagi kalau ditemani kerupuk kaleng yang harganya _seribuan_ itu.
+Apalagi kalau ditemani kerupuk kaleng yang harganya seribuan itu.
 
-Tidak ada yang mewah.
+Tidak ada yang mewah dari _Warung Cak Pur_. Kedainya sederhana. Dijalankan dengan sepenuh hati oleh Pasangan Cak Pur dan tentu saja Bu Pur.
 
-Warungnya sederhana.
-
-Pasangan suami istri bahu-membahu melayani pelanggan dengan sepenuh hati.
-
-Tapi mungkin justru itu yang membuatnya terasa.
-
-Ada kesahajaan.
-
-Ada kerja.
-
-Ada keramahan.
-
-Ada orang-orang yang setiap hari membuka warung, memasak, melayani, lalu pulang membawa hasil dari hari yang mereka jalani.
+Tapi mungkin justru itu yang membuatnya terasa. Ada kesahajaan. Ada kerja. Ada keramahan. Dan, yang membuatku kembali.
 
 Kadang sebuah kota tidak perlu menunjukkan dirinya lewat gedung tinggi.
 
-Cukup lewat sepiring mie godog.
+Cukup lewat sepiring mie godog, Cak Pur.
 
-Di Gresik Kota Baru, pilihan makanan sebenarnya _bejibun_.
+Lain ceritanya dengan Kawasan GKB, pilihan makanan sebenarnya bejibun. Tetapi entah kenapa, aku selalu kembali ke gerobak tahu tek yang sama. Lokasinya di seberang sebuah toko—atau mungkin distro—yang memasang baliho besar bertuliskan “Gresik Hardcore”.
 
-Tetapi entah kenapa, aku selalu kembali ke gerobak tahu tek yang sama.
-
-Lokasinya di seberang sebuah toko—atau mungkin distro—yang memasang baliho besar bertuliskan: *Gresik Hardcore*.
-
-Aku tidak pernah terlalu memikirkan kombinasi keduanya.
-
-Tahu tek di satu sisi.
-
-Gresik Hardcore di sisi lain.
+Aku tidak pernah terlalu memikirkan kombinasi keduanya. Tahu tek di satu sisi. _Gresik Hardcore_ di sisi lain.
 
 Tapi mungkin memang begitulah kota.
 
@@ -332,85 +190,31 @@ Ia tidak selalu harus masuk akal untuk terasa akrab.
 
 Ada pula Warung Om.
 
-Alasan pertama aku datang sebenarnya sederhana: bisa ditempuh dengan jalan kaki dari kost.
+Alasan pertama aku datang sebenarnya sederhana: bisa ditempuh dengan jalan kaki dari kost. Meski jaraknya sedikit lebih jauh daripada perjalanan kaki dari kost ke kantor, dan lumayan _challenging_ untuk ukuran kakiku.
 
-Meski jaraknya sedikit lebih jauh daripada perjalanan kaki dari kost ke kantor, dan lumayan challenging untuk ukuran kakiku.
+_Ayam geprek sambal ijonya_ enak. Harganya bersahabat. Kopi modernnya juga masih terjangkau kantong _anak kost_ pada umumnya.
 
-Ayam geprek sambal ijonya enak.
+Tapi yang kemudian membuatku kembali dan kembali lagi ke kedai ini bukan hanya makanan atau kopinya.
 
-Harganya bersahabat.
+Di sana, Aku bisa duduk dan melihat interaksi sosial yang berbeda dari kehidupan formal di kantor yang kujalani di sepertiga hari.
 
-Kopi modernnya juga masih masuk ke kantong mahasiswa pada umumnya.
+Di sana tidak ada struktur organisasi. Tidak ada jabatan. Tidak ada siapa yang lebih tinggi atau lebih rendah. Hanya orang-orang yang sedang menjalani harinya. Dan dari situlah aku menemukan satu hal yang mungkin selama ini tidak kusadari.
 
-Tapi yang kemudian membuatku betah bukan hanya makanan atau kopinya.
+Aku ternyata membutuhkan ruang seperti itu. Ruang untuk duduk tanpa harus menjadi siapa-siapa. Di Meja Kopi, Jabatan Tinggal di Luar
 
-Aku bisa duduk dan melihat kehidupan sosial yang berbeda dari kehidupan formal di kantor.
+Tidak sungkan juga aktifitas ngopi kujalani berdampingan dengan mas-mas ojol. 
 
-Di sana tidak ada struktur organisasi.
+Mungkin bagi sebagian orang, tidak ada yang istimewa dari itu. Tapi bagiku, ada sesuatu yang menarik.
 
-Tidak ada jabatan.
+Di kantor, kita terbiasa hidup dalam struktur. Ada jabatan, ada kedudukan, ada tanggung jawab, ada batas-batas formal yang memang dibutuhkan agar pekerjaan berjalan. Tetapi sesekali aku merasa perlu keluar dari semua itu. Duduk bersama orang-orang yang tidak mengenalku dari jabatan.
 
-Tidak ada siapa yang lebih tinggi atau lebih rendah.
+Mendengar cerita mereka. Tentang order. Tentang hari yang sepi. Tentang hari yang ramai. Tentang target. Tentang rasa syukur karena hari itu sudah tutup poin. Tentang hidup yang terus berjalan meskipun kadang tidak sesuai rencana. Dan aku hanya mendengarkan.
 
-Hanya orang-orang yang sedang menjalani harinya.
+Mungkin di situlah salah satu bentuk kemerdekaan yang paling sederhana yang kutemukan di Gresik. Duduk bersama orang lain tanpa harus membawa jabatan ke meja. Tidak perlu menjelaskan siapa aku. Tidak perlu menjelaskan pekerjaanku. Tidak perlu menunjukkan apa yang bisa kulakukan.
 
-Dan dari situlah aku menemukan satu hal yang mungkin selama ini tidak kusadari.
+Cukup duduk. 
 
-Aku ternyata membutuhkan ruang seperti itu.
-
-Ruang untuk duduk tanpa harus menjadi siapa-siapa.
-
-Di Meja Kopi, Jabatan Tinggal di Luar
-
-Kadang aku ngopi bersama mas-mas ojol.
-
-Mungkin bagi sebagian orang, tidak ada yang istimewa dari itu.
-
-Tapi bagiku, ada sesuatu yang menarik.
-
-Di kantor, kita terbiasa hidup dalam struktur.
-
-Ada jabatan.
-
-Ada kedudukan.
-
-Ada tanggung jawab.
-
-Ada batas-batas formal yang memang dibutuhkan agar pekerjaan berjalan.
-
-Tetapi sesekali aku merasa perlu keluar dari semua itu.
-
-Duduk bersama orang-orang yang tidak mengenalku dari jabatan.
-
-Mendengar cerita mereka.
-
-Tentang order.
-
-Tentang hari yang sepi.
-
-Tentang hari yang ramai.
-
-Tentang target.
-
-Tentang rasa syukur karena hari itu sudah tutup poin.
-
-Tentang hidup yang terus berjalan meskipun kadang tidak sesuai rencana.
-
-Dan aku hanya mendengarkan.
-
-Mungkin di situlah salah satu bentuk kemerdekaan yang paling sederhana yang kutemukan di Gresik.
-
-Duduk bersama orang lain tanpa harus membawa jabatan ke meja.
-
-Tidak perlu menjelaskan siapa aku.
-
-Tidak perlu menjelaskan pekerjaanku.
-
-Tidak perlu menunjukkan apa yang bisa kulakukan.
-
-Cukup duduk.
-
-Ngopi.
+Ngopi. 
 
 Bercerita.
 
@@ -418,67 +222,25 @@ Mendengarkan.
 
 Dan pulang sebagai manusia biasa.
 
-Presensi Paling Pagi dan Perjalanan Paling Malam
+Dulu aku mungkin hanya melihat seluruh aktivitas tersebut sebagai rutinitas.
 
-Kalau dipikir-pikir, hidupku di Gresik memang seperti dua perjalanan yang berlawanan.
-
-Pagi-pagi aku berlari.
-
-Sore atau malam aku pulang.
-
-Di antara keduanya ada kantor.
-
-Ada kopi.
-
-Ada diskusi.
-
-Ada mie godog.
-
-Ada ayam geprek.
-
-Ada tahu tek.
-
-Ada orang-orang yang mungkin sekarang sudah tidak lagi kutemui.
-
-Ada tempat-tempat yang mungkin sudah berubah.
-
-Dan ada aku yang juga sudah berubah.
-
-Dulu aku mungkin hanya melihat semuanya sebagai rutinitas.
-
-Sekarang, ketika mencoba mengingatnya kembali, semuanya seperti potongan gambar.
-
-Satu per satu.
-
-Kecil-kecil.
-
-Tidak spektakuler.
-
-Tetapi lengkap.
+Sekarang, ketika mencoba mengingatnya kembali, semuanya seperti potongan gambar. Satu per satu. Kecil-kecil. Tidak spektakuler. Tetapi lengkap.
 
 Seperti lukisan di sisi Damar Kurung.
 
 Apa yang Sebenarnya Tergambar?
 
-Mungkin itulah sebabnya aku teringat Damar Kurung setelah membaca 33 tulisan tentang Gresik.
+Mungkin itulah sebabnya aku teringat Damar Kurung setelah membaca 33 tulisan rekan-rekan lamaku tentang Gresik.
 
 Karena ternyata sebuah kota tidak hanya tersusun dari sejarah besarnya.
 
 Ia juga tersusun dari kehidupan kecil orang-orang yang pernah tinggal di dalamnya.
 
-Ada orang yang setiap pagi berlari.
+Ada orang yang setiap pagi berlari. Ada pegawai yang membuat kopi. Ada pasangan suami istri yang membuka warung. Ada penjual tahu tek. Ada mas-mas ojol berbagi cerita satu sama lain.
 
-Ada pegawai yang membuat kopi.
+Ada orang yang dua pekan sekali menyusuri Pantura demi rindu.
 
-Ada pasangan suami istri yang membuka warung.
-
-Ada penjual tahu tek.
-
-Ada mas-mas ojol yang mengejar target.
-
-Ada orang yang dua pekan sekali menyusuri Pantura demi pulang.
-
-Ada seseorang yang duduk sendirian di warung ayam geprek karena malam itu tidak pulang.
+Ada seseorang yang duduk menyendiri di Warung Om penyaji ayam geprek, untuk berkontemplasi, atau sekedar mengisi akhir pekan sepinya.
 
 Semuanya biasa.
 
@@ -486,45 +248,11 @@ Tapi bukankah kehidupan memang sebagian besar terdiri dari hal-hal biasa?
 
 Damar Kurung seperti mengajarkan itu.
 
-Bahwa sesuatu tidak harus besar untuk layak diabadikan.
-
-Bahwa keseharian juga punya cerita.
-
-Bahwa sebuah kota bukan hanya tentang apa yang terlihat dari jauh.
-
-Tetapi tentang apa yang dirasakan ketika kita tinggal di dalamnya.
-
-Dan Aku Pernah Tinggal di Dalamnya
+Bahwa sesuatu tidak harus besar untuk layak diabadikan. Bahwa keseharian juga punya cerita. Bahwa sebuah kota bukan hanya tentang apa yang terlihat dari jauh. Tetapi tentang apa yang dirasakan ketika kita tinggal di dalamnya. Dan Aku Pernah Tinggal di Dalamnya
 
 Dua tahun enam bulan.
 
-Tidak terlalu lama untuk sebuah kota.
-
-Tetapi ternyata cukup lama untuk membuat banyak hal menjadi kebiasaan.
-
-Cukup lama untuk tahu warung mana yang menjual mie godog.
-
-Cukup lama untuk punya rute jogging sendiri.
-
-Cukup lama untuk tahu ke mana harus mencari tahu tek.
-
-Cukup lama untuk mengenal orang-orang.
-
-Cukup lama untuk punya tempat duduk favorit.
-
-Cukup lama untuk merasa bahwa perjalanan pulang yang dulu melelahkan ternyata bisa dirindukan.
-
-Dan mungkin, cukup lama untuk menyadari bahwa sebuah tempat tidak selalu meninggalkan kenangan dalam bentuk peristiwa besar.
-
-Kadang ia hanya meninggalkan rasa.
-
-Rasa akrab.
-
-Rasa pernah menjadi bagian dari sesuatu.
-
-Rasa bahwa pernah ada satu masa ketika kita menjalani hari-hari di sana, dan semuanya terasa biasa saja.
-
-Sampai akhirnya hari-hari itu selesai.
+Tidak terlalu lama untuk sebuah kota. Tetapi ternyata cukup lama untuk membuat banyak hal menjadi kebiasaan. Cukup lama untuk merasa bahwa perjalanan pulang yang dulu melelahkan ternyata bisa dirindukan. Dan mungkin, cukup lama untuk menyadari bahwa sebuah tempat tidak selalu meninggalkan kenangan dalam bentuk peristiwa besar.
 
 Aku pernah mengira selama dua tahun enam bulan itu aku sedang tinggal di Gresik.
 
@@ -544,9 +272,9 @@ Truk-truk besar.
 
 Kereta Pandalungan.
 
-Kopi Abah Galih.
+Teman ngopi.
 
-Kelakar Pak Haji Murdani.
+Kelakar rekan kerja.
 
 Jogging pagi.
 
@@ -566,19 +294,11 @@ Warung Om.
 
 Mas-mas ojol.
 
-Dan banyak wajah yang mungkin bahkan sudah lupa kepadaku.
+Semuanya pernah menjadi bagian dari satu kota yang pernah kutinggali. Atau mungkin, bagian dari satu kota yang sampai sekarang masih tinggal di dalam diriku.
 
-Semuanya pernah menjadi bagian dari satu kota yang pernah kutinggali.
+Dan kalau suatu hari nanti aku melihat Damar Kurung lagi, aku tidak akan hanya melihat sebuah lampion khas Gresik.
 
-Atau mungkin,
-
-bagian dari satu kota yang sampai sekarang masih tinggal di dalam diriku.
-
-Dan kalau suatu hari nanti aku melihat Damar Kurung lagi, mungkin aku tidak akan hanya melihat sebuah lampion khas Gresik.
-
-Aku akan melihat sebuah kehidupan.
-
-Sebuah kehidupan yang pernah kutinggali selama dua tahun enam bulan.
+Aku akan melihat fragmen episode hidup kita. Penggalan waktu yang diwakili oleh empat sisi lampion yang bercerita, bahwa kita pernah ada di situ selama dua tahun enam bulan.
 
 Dan untuk itu,
 
