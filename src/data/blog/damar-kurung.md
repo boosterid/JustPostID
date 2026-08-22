@@ -244,7 +244,7 @@ Tapi bukankah kehidupan memang sebagian besar terdiri dari hal-hal biasa?
 
 Damar Kurung seperti mengajarkan itu.
 
-Bahwa sesuatu tidak harus besar untuk layak diabadikan. Bahwa keseharian juga punya cerita. Bahwa sebuah kota bukan hanya tentang apa yang terlihat dari jauh. Tetapi tentang apa yang dirasakan ketika kita tinggal di dalamnya. Dan Aku Pernah Tinggal di Dalamnya
+Bahwa sesuatu tidak harus besar untuk layak diabadikan. Bahwa keseharian juga punya cerita. Bahwa sebuah kota bukan hanya tentang apa yang terlihat dari jauh. Tetapi tentang apa yang dirasakan ketika kita tinggal di dalamnya. Dan, aku pernah tinggal di dalamnya
 
 Dua tahun enam bulan.
 
